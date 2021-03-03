@@ -1,0 +1,25 @@
+function turnRight(){
+    turnLeft();
+    turnLeft();
+    turnLeft();
+}
+
+function goUp(){
+    turnLeft();
+    move();
+    turnRight();
+}
+
+function goDown(){
+    turnRight();
+    move();
+    turnLeft();
+}
+
+function moveBack(){
+    turnLeft();
+    turnLeft();
+    move();
+    turnLeft();
+    turnLeft();
+}
