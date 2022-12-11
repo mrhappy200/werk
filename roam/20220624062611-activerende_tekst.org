@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       4bc52042-de54-4dee-a12d-d5bc84c2f00e
+:END:
+#+title: activerende tekst
+Bij dit tekstdoel hoort de tekstsoort activerende tekst, deze soort tekst spoort je aan om iets te doen/ om actie te ondernemen. Tekstvormen die bij dit tekstdoel horen zijn:
+- [[id:3e1e8412-5980-4acb-9bff-d7d64ea54c4c][advertentie]]
+- [[id:fadf323d-181d-4931-868f-4c15ef17969a][poster]]
+- [[id:3bde1fdb-0de8-4b7e-ba76-97f2a4bca16f][oproep]]
+
+* Kenmerken
+ * De schijver probeert de lezer tot actie aan te zetten; overhalen om iets te doen dus.
+ * Het belangrijkste doel is activeren, maar informeren is een belangrijk tweede doel (zonder informatie te geven haal je mensen natuurlijk niet over...)
+* Lay-out
+in activerende teksten speelt beeld en opmaak een belangrijke rol: de aandacht moet getrokken worden.
+ * keuze lettertype
+ * keuze lettergroote
+ * de verdeling over de pagina: waar staat welke info?
+ * gebruik van kleur
+ * gebruik van illustraties

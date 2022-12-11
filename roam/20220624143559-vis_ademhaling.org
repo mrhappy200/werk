@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       be0fdb09-cd21-4901-a7c8-c74685be4f93
+:END:
+#+title: vis ademhaling
+
+1) De vis opent zijn bek en neemt een hap water
+   1) de kieuwdeksels zijn dicht
+2) De vis sluit zijn bet en de kieuwdeksels gaan open het water wordt langs de kieuwplaatjes naar buiten geperst

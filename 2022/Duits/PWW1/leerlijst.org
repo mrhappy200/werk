@@ -1,0 +1,13 @@
+* Grammatica
+** Regelmatige werkwoorden
+| Duits     | Uitgang | Bruggetje |
+|-----------+---------+-----------|
+| ich       | e       | Een       |
+| du        | st      | STukje    |
+| er/sie/es | t       | Taart     |
+| wir       | en      | EN        |
+| ihr       | t       | Thee      |
+| sie/Sie   | en      | ENzo      |
+* Woorden
+| Duits | Nederlands | X |
+|       |            |   |

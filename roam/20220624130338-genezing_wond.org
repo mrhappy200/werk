@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       15ed01cc-40dd-4c6b-a6b4-1ff60cee1c25
+:END:
+#+title: Genezing wond
+een wond is niet goed voor je lichaam dus moet er iets gedaan worden.
+
+1. eerst vernouwt het bloedvat
+2. daarnaa propvorming
+3. als laatste reageren bloedplaatjes met bijv fibrinogeen om rode bloedcellen te vangen

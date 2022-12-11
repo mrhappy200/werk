@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       d69793b5-69cc-40b9-8075-d1137bce0b7b
+:END:
+#+title: amuserende tekst
+bij dit tekstdoel hoort de tekstvorm amuserende tekst, deze teksten lees je voor je vermaak. tekstvormen die hierbij horen zijn
+- [[id:0ff4351a-fa1e-4f6b-bed9-7e9aebe73c44][jeugdboek]]
+- [[id:ca2e7b97-adf2-408c-83b2-0883373b47cc][strip]]
+- [[id:dc9394e5-a358-4aa4-9467-f9b9d5ab0bc9][cabarettekst]]

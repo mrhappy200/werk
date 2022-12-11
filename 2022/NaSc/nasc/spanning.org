@@ -1,0 +1,29 @@
+| grootheid     | symbool | eenheid  | symbool |
+|---------------+---------+----------+---------|
+| Stroomsterkte | I       | ampere   | A       |
+| Vermogen      | P       | watt     | W       |
+| Spanning      | U       | volt     | V       |
+| Energie       | E       | joule    | J       |
+| Tijd          | t       | seconden | s       |
+
+* Stroomsterkte
+  1. eenheidis ampere
+  2. neemt af in paralel schakelingen
+  3. symbool is I
+
+* spanning
+  1. eenheid is volt
+  2. symbool is U(?)
+  3. neemt af in serie schakelingen
+
+* Vermogen
+  1. eenheid is watt
+  2. symbool is P(power)
+  3. W = J/s
+
+* Energie
+  1. eenheid is joule
+  2. symbool is E(energy)
+  3. J = W * t
+* TODO do practice test
+** TODO do it well

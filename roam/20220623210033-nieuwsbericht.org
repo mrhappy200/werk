@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       aa8b6b7b-9c53-4896-bebd-1b4d167ef664
+:END:
+#+title: nieuwsbericht
+

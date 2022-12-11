@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       3ebdf543-7612-4710-bec4-0430a2132741
+:END:
+#+title: koorts
+temperatuur wordt geregeld door dit proces:
+
+               __________________
+              |               \
+1. temperatuur > 37            \
+2. sein aan hypothalamus       |
+3. lichaaam koelt af           |
+4. temperatuur daalt           |
+5. temperatuur < 37            |
+6. sein aan hypothalamus       |
+7. lichaam warmt op            |
+8. temperatuur stijgt          |
+        |                      |
+        -----------------------|

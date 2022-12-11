@@ -1,0 +1,8 @@
+# Created 2022-04-04 Mon 12:04
+#+TITLE: 
+#+macro: planeetNR 8
+#+macro: plutoWelGeenPlaneet wel
+
+* Zonnenstelsel
+** Les 1
+er zijn 8 planeten dat telt dus wel omdat pluto wel een planeet is.`

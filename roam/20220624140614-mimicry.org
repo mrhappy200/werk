@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       3693f642-dda8-452e-9a3b-790150c7517b
+:END:
+#+title: mimicry
+

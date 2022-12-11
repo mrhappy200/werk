@@ -1,0 +1,43 @@
+#+SETUPFILE: ./theme.theme
+#+HTML_HEAD_EXTRA: <style>*{font-family:  !important}</style>
+* Zinsdelen
+** Samengestelde zinnen
+Een samengestelde zin is een zin met meer dan één persoonsvorm.
+*** Hoofdzinnen en bijzinnen
+Een samengestelde zin kan bestaan uit 2 hoofdzinnen, een hoofdzin met een of meer bijzinnen of een combinatie
+ * In een *Hoofdzin* staan het /onderwerp/ en de /persoonsvorm/ naast elkaar. De /pv/ staat in de hoofdzin op de eerste plaats of de tweede plaats.
+ * In een *Bijzin* kunnen tussen het /onderwerp/ en de /persoonsvorm/ wel andere zinsdelen staan, maar dat hoeft niet. de /pv/ staat achter in de bijzin
+Voorbeeld:
+=Ik *eet* geen mango=, =omdat ik niet van de textuur *houd*=
+Het voegwoord _omdat_ laat zien waar de tweede zin begint
+ * 1e deel: *ik eet* geen mango. = hoofdzin
+   → het /ow/ en de /pv/ staan naast elkaar. --> de /pv/ staat op de 2e plaats
+ * 2e deel: omdat *ik* niet van de textuur *houd*. = bijzin
+   → tussen het /ow/ en de /pv/ staan andere zinsdelen. --> de /pv/ staat achterin.
+
+
+*** Nevenschikkend en onderschikkend
+Er zijn twee soorten samengestelde zinnen, een nevenschikkende en een onderschikkende samengestelde zin.
+**** Nevenschikkingen
+#+BEGIN_VERSE
+Bij een nevenschikking(/ns/) bestaat de samengestelde zin uit (minstens) twee hoofdzinnen of uit een hoofdzin en twee bijzinnen. In dit geval zijn de bijzinnen nevenschikkend verbonden
+Bijvoorbeeld
+=*Ik* *heb* geen e-reader=, want =*ik* *lees* liever uit een boek.=
+1e deel: *Ik heb* geen e-reader.   = hoofdzin.
+→ het /ow/ en de /pv/ staan naast elkaar. --> de /pv/ staat op de tweede plaats.
+2e deel: *Ik lees* liever uit een boek.  = hoofdzin.
+→ het /ow/ en de /pv/ staan naast elkaar. --> de /pv/ staat op de tweede plaats.
+
+Voorbeeld 2:   =*Wist* *je* al= =dat *ik* geen e-reader *heb*= =omdat *ik* liever boeken lees?=
+1e deel: Wist je al.  = hoofdzin.
+→ het ow en de pv staan naast elkaar. --> de pv staat op de eerste plaats.
+2e deel: dat ik geen e-reader heb.  = bijzin.
+→ tussen het ow en de pv staan andere zinsdelen. -> de pv staat achterin.
+3e deel: omdat ik liever boeken lees.  = bijzin.
+→ tussen het ow en de pv staan andere zinsdelen. -> de pv staat achterin.
+#+END_VERSE
+**** Onderschikking
+Bij een onderschikking (/os/) bestaat de samengestelde zin uit een hoofdzin met een bijzin erin. De bijzin is een zinsdeel van de hoofdzin. In een bijzin zijn het onderwerp en de persoonsvorm van elkaar gescheiden of je kunt ze van elkaar scheiden of je kunt ze van elkaar scheiden. De bijzin
+#+BEGIN_VERSE
+Bij een onderschikking (/os/) bestaat de samengestelde zin uit een hoofdzin met een bijzin erin. De bijzin is en zinsdeel van de hoofdzin. In een bijzin zijn het onderwerp end de persoonsvorm van elkaar gescheiden of je kun ze van elkaar scheiden. De bijzin kan vooraan staan of achteraan
+#+END_VERSE

@@ -1,0 +1,23 @@
+* Afval 
+  A) wat is afval
+     A) afval zijn alle stoffen die niet horen te zijn waar ze zijn.
+  B) hoe gaan we in Nederland om met afval
+     A) In nederland wordt veel afval gerecycled,
+        A) glas wordt omgesmolten en hergebruikt
+        B) plastic wordt geschijden, bepaalde soorten plastic wordt gerecycled de rest wordt verbrand
+        C) sommige soorten metaal kunnen direct worden hergebruikt de rest wordt naar een lager soort metaal veranderd en wordt vervolgens hergebruikt
+        D) groen afval wordt als compost gebruikt
+        E) hout wordt soms gerecycled maar meestal verbrandt
+  C) waar wordt afval gerycled
+     A) dat hangt van het soort afval af en welk bedrijf door je lokale gemeente
+        is ingehuurd om afval op te jalen
+  D) wat voor soort afval is moeilijk recylcebaar
+     A) bepaalde soorten plascic en metaal, hout
+  E) wat voor soort afval is makkelijk recyclebaar
+     A) de rest zie eerste punt
+* DONE maak planning [3/3]
+ - [X] geef rijk taken [2/2]
+   - [X] taak een
+   - [X] taak twee
+ - [X] geef ronan taken
+ - [X] geef tristan taken

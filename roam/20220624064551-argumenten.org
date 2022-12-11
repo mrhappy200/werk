@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       3028e286-e6aa-4e5d-90db-447ded5b3f90
+:END:
+#+title: argumenten
+* argumenten
+Of een lezer overtuigd wordt, ligt aan de argumenten. Met een argument wil de schrijver bewijzen dat hij of zij gelijk heeft en zijn/haar mening de juiste is.
+** Soorten argumenten
+ * feiten (iets ís zo; is te controleren; feitelijke argumenten)
+ * meningen (iemand víndt iets; hoeft niet waar te zijn; vaak gevoelsargumenten)
+ * tegenargumenten (argument van iemand met een andere mening over hetzelfde onderwerp; in een betoog kan de schrijver dit tegenargument noemen en dan *weerleggen*. Daardoor zal zijn betoog nog meer overtuigen)

@@ -1,0 +1,38 @@
+Table of Contents
+_________________
+
+
+
+
+0.999.0@27.2 (spacemacs)
+
+┏━━━┓ ┃┏━┓┃ Welcome to
+┃┗━━┓╋╋╋╋┏━━┓╋╋╋╋┏━━┓╋╋╋╋┏━━┓╋╋╋╋┏━━┓╋╋╋╋┏┓┏┓╋╋╋╋┏━━┓╋╋╋╋┏━━┓╋╋╋╋┏━━┓ b
+┗━━┓┃┏━━┓┃┏┓┃┏━━┓┃┏┓┃┏━━┓┃┏━┛┏━━┓┃┃━┫┏━━┓┃┗┛┃┏━━┓┃┏┓┃┏━━┓┃┏━┛┏━━┓┃━━┫ e
+┃┗━┛┃┗━━┛┃┗┛┃┗━━┛┃┏┓┃┗━━┛┃┗━┓┗━━┛┃┃━┫┗━━┛┃┃┃┃┗━━┛┃┏┓┃┗━━┛┃┗━┓┗━━┛┣━━┃ t
+┗━━━┛╋╋╋╋┃┏━┛╋╋╋╋┗┛┗┛╋╋╋╋┗━━┛╋╋╋╋┗━━┛╋╋╋╋┗┻┻┛╋╋╋╋┗┛┗┛╋╋╋╋┗━━┛╋╋╋╋┗━━┛ a
+╋╋╋╋╋╋╋╋╋┃┃[The best editor is neither Emacs nor Vim, it's Emacs+Vim]
+╋╋╋╋╋╋╋╋╋┗┛
+
+[?] [Homepage] [Documentation] [Gitter Chat] [Licensing] [Update
+      Packages] [Rollback Package Update] [Release Notes] [Search in
+      Spacemacs]
+
+
+
+Recent Files: (r) 1 ~/werk/OO/zwerfinatorNotiies.org 2
+     ~/werk/geschiedenis/stalin.or 3 ~/werk/frans/frans.org 4
+     ~/werk/english/pitch.org 5 ~/werk/english/pitch.html
+
+Projects: (p) 6 ~/.emacs.d/ 7 ~/.config/awesome/
+
+
+
+
+Made with heart by the community
+
+                                                                        [Proudly
+free software] 
+
+216 packages loaded in 4.475s (e:148 r:7 l:10 b:51) (0.000s spent in
+         your user-config)

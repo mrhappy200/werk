@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       2f07fb8f-8a31-4459-9ace-1a54c6695ead
+:END:
+#+title: artikel
+

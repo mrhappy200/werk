@@ -1,0 +1,10 @@
+* Data
+
+| beschrijving                                                                            | datum   |
+| opdrachtgever komt langs voor vragen(vandaag voorberijeden)                             | 14 sept |
+| festival halfzes verzamelen kwart voor zes kickoof zes uur start zeven eind begeleiding | vrijdag |
+|                                                                                         |         |
+
+* Ideén
+
+1) Addressable led strips

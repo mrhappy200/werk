@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9fce9f2b-f153-4fc4-9fd4-639ac26035c9
+:END:
+#+title: Kritisch lezen
+Is een van de leesstrategieën. Als je een tekst kritisch leest, stel je jezelf beoordelingsvragen.
+ * Is de schrijver deskundig?
+ * Is de informatiebron betrouwbaar?
+ * Is de informatie waar?
+Zeker in overtuigende teksten zoals een betoog, beoordeel je de argumenten. Vraag jezelf af:
+ * Bij een feit als argument: is dit waar? Is het echt zo gebeurd? Is dit onderzocht?
+ * Bij een mening als argument: vind ik dit overtuigend? Hoe waarschijnlijk is dit?

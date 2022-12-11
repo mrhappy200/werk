@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       1e07052a-e1b0-428a-a4f6-78056935df56
+:END:
+#+title: Leesstrategieen
+- [[id:2a357810-4e8b-4f5d-9f45-c69155ebad96][Verkennend lezen]]
+- [[id:110a15e9-d3a7-4446-bea6-5e4beebf3ad6][Globaal lezen]]
+- [[id:f14e979f-75bc-4429-80b8-b298fa8dd2d0][Nauwkeurig lezen]]
+- [[id:806e9a07-38ee-4da7-a950-426c1c1eca72][Zoekend lezen]]
+- [[id:13bd6814-9692-4bbf-9b5b-0654d75a4ee3][Studerend lezen]]
+- [[id:9fce9f2b-f153-4fc4-9fd4-639ac26035c9][Kritisch lezen]]

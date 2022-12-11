@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       c62f2372-4180-46e4-9343-19911f5e8dfb
+:END:
+#+title: Lever
+
+Fabriek waar meerdere processen zich afspelen
+
+ * De leverslagader voert bloed met zuurstof naar de lever
+ * De poortader voert bloed met stoffen van de darmen naar de lever
+ * De lever verwerkt dit bloed en voert het af via *de leverader*
+
+De lever doet 4 processen
+1. [[id:43967f77-78f6-47b6-82c7-691d3d0571b3][Opbouw en Omzetten]]
+2. [[id:3736c7b5-db29-4fb7-bd45-4de286689a81][Afbreken]]
+3. [[id:4891754b-505d-48fb-a805-382a2365176f][Afvoeren]]
+4. [[id:da86700b-9b15-4c58-bdc4-75f610fb3f6b][Opslaan]]

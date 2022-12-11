@@ -1,0 +1,6 @@
+#+MACRO: planeetNR 8
+#+MACRO: plutoWelGeenPlaneet niet
+
+* Zonnenstelsel
+** Les 1
+    er zijn {{{planeetNR}}} planeten dat telt dus {{{plutoWelGeenPlaneet}}} pluto omdat pluto {{{plutoWelGeenPlaneet}}} een planeet is.`

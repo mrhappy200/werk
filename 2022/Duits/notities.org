@@ -1,0 +1,7 @@
+* Woordenlijst
+| Duits            | Nederlands   |
+|------------------+--------------|
+| der Auftritt     | het optreden |
+| proben/uben      | oefenen      |
+| der Schauspieler | de acteur    |
+|                  |              |

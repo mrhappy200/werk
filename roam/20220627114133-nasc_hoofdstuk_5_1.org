@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       03c002ae-3286-4dcc-8f0d-6ef17dbbd4c5
+:END:
+#+title: NaSc Hoofdstuk 5.1
+Absolute nulpunt: \(-273℃\)
+\(Temperatuur\:in\:K=Temperatuur\:in\:℃+273\)
+eenheid soortelijke warmte \(J/kg/℃\)
+omrekenen Celsius --> Fahrenheit \(T_C=(T_F-32)\times\frac{5}{9}\)

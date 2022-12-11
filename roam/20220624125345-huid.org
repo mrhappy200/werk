@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       cdaa0981-a80d-4f70-9c31-6df37db5700c
+:END:
+#+title: Huid
+De huid heeft drie functies
+1) temperatuur goed houden
+2) bescherming tegen buiten
+3) bescherming tegen de zon
+
+De huid heeft 3 lagen
+1) opperhuid
+   a) hoornlaag
+   b) kiemlaag
+2) lederhuid
+3) onderhuids bindweefsel

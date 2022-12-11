@@ -1,0 +1,68 @@
+#+OPTIONS: ^:{}
+#+TODO: TODO(t) ASSUME(a) | DONE(d)
+* Hoofdstuk 5 (niet 5.4)
+** DONE [#A] De stelling van pythagoras
+   A) (ene rechthoekzijde)² + (andere rechthoekzijde)²=(schuine zijde)
+   B) (PQ)²+(RQ)²=(PR)²
+   C) als (PQ)²+(RQ)²=(PR)² dan ⊿PQR=rechthoekig
+*** DONE [#A] De uitgebrijde stelling van pythagoras
+    A) (lengte)²+(breedte)²+(hoogte)²=(lichaamsdiagonaal)²
+** ASSUME [#B] De bach-stelling
+   A) uitgesproken: "De B.A.C.H-stelling"
+   B) in ⊿ABC met hulplijn  CD is (AC*BC)=(AB*CD)
+** TODO [#B] De hpq-stelling
+   A) in ⊿ABC met uit het hoekpunt een lijn naar de tegengestelde zijde h, die zijde verdeeld in p en q is h²=P*Q
+** TODO [#C] De stelling van Thales
+   A) in een cirkel met middelijn AB en een punt C op de cirkel geldt dat ⊿ABC rechthoekig is met ⌞C = 90⁰
+* Hoofdstuk 6 (niet 6.2;C en niet 6.5)
+** TODO [#A] Procenten nemen
+   A) X% van Y is X * Y ÷ 100
+** TODO [#A] Procenten toevoegen en afrekken
+   B) X + Y% is Y ÷ 100 + X
+   C) X - Y% is Y ÷ 100 - X
+** TODO [#A] Procentuele toe- en afname berekenen
+   A) procentuele toename = (X^{new} - X^{old)} ÷ X^{old} * 100%
+   B) procentuele afname = (X^{old}^{} - X^{new} ÷ X^{old} * 100%
+** ASSUME [#B] Staafdiagram
+   A) in een staafdiagram geeft de lengte van een staaf de hoeveelheid aan
+   B) in een staafdiagram staat bij elke staaf waar het over gaat
+   C) in een staafdiagram staan de staven los van elkaar
+** ASSUME [#C] Cirkeldiagram
+   A) je kunt uit een cirkeldiagram de hoek van een sector bereken
+   B) bijvoorbeeld bij een cirkel van 360⁰ en een sector van 13% doe je 13 * 360 / 100
+** DONE [#B] Histogrammen
+   A) dit is een frequentie tabel (render met C-c " g)
+#+PLOT: title:"Histogram" ind:1 deps:(2) type:2d with:histograms set:"yrange [0:]"
+| aantal | frequentie |
+|--------+------------|
+| drie   |          4 |
+| vier   |          6 |
+| vijf   |          2 |
+| zes    |          5 |
+| zeven  |          1 |
+** DONE [#C] Steel-blad-diagram
+   | omschrijving |             |
+   |--------------+-------------|
+   |            2 |       2 9 9 |
+   |            3 | 1 1 3 7 8 8 |
+   |--------------+-------------|
+   |   tientallen |    eenheden |
+** TODO [#C] Centrummaten
+   A) gemmiddelde = som van de waarnemingsgettallen / aantal waarnamingsgettallen
+   B) mediaan = getal in het midden van een rij gerangschikte getallen of het gemiddelde van de twee middelste getallen bij een oneven getal
+   C) modus = het meest voorkomende getal
+
+* oefenen
+   |         jaar |      aantal |
+   |--------------+-------------|
+   |         2006 |         234 |
+   |         2007 |         230 |
+   |         2008 |         235 |
+   |         2009 |         225 |
+   |         2010 |         236 |
+   |         2011 |         239 |
+   |         2012 |         256 |
+   |         2013 |         261 |
+   |         2014 |         265 |
+   |         2015 |         269 |
+   |         2016 |         277 |

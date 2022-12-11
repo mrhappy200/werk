@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       13bd6814-9692-4bbf-9b5b-0654d75a4ee3
+:END:
+#+title: Studerend lezen
+Je leest een text, bijvoorbeeld een paragraaf uit een schoolboek, met het doel om de informatie te onthouden.

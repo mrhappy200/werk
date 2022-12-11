@@ -1,0 +1,34 @@
+61; Hallo, en welkom.
+2; Hallo
+1; ik ga jou interviewen over je leesontwikkeling tot en met leerjaar 2
+2; oh mooi.
+1; Wie ben je eigenlijk?
+2; Ik ben Ronan Berntsen ik zit in 2t1 van het goois lyceum ik hou erg van lezen en blijf daarvoor soms ook (veel) te laat op
+1; O! Wat toevallig ik heet ook zo! en ik houd ook van lezen, dat is leuk
+2; oh dat is grappig wat een toeval
+1; Laten we beginnen met het interview.
+2; dat is goed, wat is je eerste vraag?
+1; Wat voor boeken heb je dit schooljaar gelezen voor nederlands?
+2; Ik heb dit schooljaar 3 boeken gelezen namelijk “In Transit”, “Wat zou Martin doen?” en “De gevleugelde kat”
+1; Lijken die boeken erg op elkaar of zijn ze allemaal erg verschillend? je kunt ook nog wat zeggen over de boeken zelf
+2; Ze hebben best veel overeenkomsten, de grootse daarvan is dat het allemaal fantasyboeken zijn  met uitzondering van “wat zou martin doen” omdat het een klassikaal boek was In transit is een heel erg futuristisch boek, het speelt zich af in het jaar 2275 en mensen zijn geevolueerd tot een nieuwe soort. Ik vind dit soort boeken erg leuk, Wat zou martin doen speelt zich gewoon nu (of eigenlijk in de tijd dat het boek werd geschreven) af. de gevleugelde kat gaat gedeeltelijk over tijdreizen dus dat speelt zich niet in een duidelijke tijd af.
+1; Lees je nu ook een boek voor nederlands?
+2; Ja ik lees nu ook een boek, het heet iBoy het is ook een fantasy sci-fi boek, het gaat over een jongen die een iPhone in zijn hoofd krijgt en daardoor ineens superkrachen krijgt. Ik heb het bijna uit
+1; Je zei dat je klassikale boek “Wat zou Martin doen” hebt gelezen, wat vond je ervan? En had je dit boek ook gekozen als het geen klassikaal boek was
+2; Ik vond het een prima boek maar niet geweldig, het is gewoon niet echt een boek voor mij. Het is een beetje donker, ik lees vooral om plezier te hebben maar van wat zou martin doen wordt ik gewoon een beetje depressief. Als het geen klassikaal boek was geweest dan had ik het zeker niet gekozen.
+1; welke twee boeken die je dit jaar voor school hebt gelezen spraken jou het meest aan?
+2; Ik denk dat iBoy en In transit de beste boeken tot nu waren, ik vond vooral “de vliegende kat” niet leuk. Het leukste aan deze boeken is waarschijnlijk dat ze erg futuristisch zijn, in het boek “In transit” bijvoorbeeld is er een soort versie van het internet die je met je hersens in kunt bedienen
+1; Wat is de grootste overeenkomst tussen de twee boeken die je het leukst vond?
+2; in allebei de boeken komt veel technologie voor, het is zelfs een erg belangrijk onderdeel van het verhaal in beide boeken. Ik hou erg van tech dus ik denk dat dat de reden is dat ik dat soort boeken leuk vindt.
+1; Vind jij dat je erg als lezer bent veranderd in de laatste 2 jaar?
+2; Soort van, voor leerjaar 1 wist ik niet hoe de genre die ik leuk vondt heete maar door de leeslijst heb ik geleerd dat ik vooral fantasy/science-fiction boeken leuk vind, Dus dat is een verandering denk ik? Verder is er niet erg veel gebeurd want ik lees nog steeds dezelfde soort boeken
+1; denk je dat je leesniveau erg is veranderd over die 2 jaar?
+2; Nee ik kan al op redelijk hoog niveau lezen en ik lees vooral voor de plezier dus lees ik vooral op iets lager niveau omdat daar de meeste leuke boeken bij staan. 
+1; Heb je iets geleerd van de boeken op school?
+2; over mezelf heb ik niet veel geleerd van boeken, dat is niet echt waarom ik lees, maar ik heb wel best goed leren lezen door alle boeken.
+1; Het interview is bijna voorbij, heb je nog iets te zeggen?
+2; Ik denk dat ik volgend jaar wat nieuwe genres wil proberen, ik vind lezen erg leuk maar vooral in het engels omdat daar de meeste leuke boeken bij staan. ook is er een boek dat ik graag wil lezen voor nederlands dat niet op de lijst staat namelijk "ready player one" het schijnt een leuk boek te zijn en julian raade me het aan
+1; Dat was het intervieuw dan, veel leesplezier.
+2; bedankt jij ook, doeei
+1; dag
+2; dag

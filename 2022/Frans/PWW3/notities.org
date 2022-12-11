@@ -1,0 +1,157 @@
+#+TODO: TODO DOING | DONE FINAL
+#+STARTUP: overview
+* Belangerijke woorden
+:PROPERTIES:
+:VISIBILITY: folded
+:END:
+** structuur
+  | Nederlands      | Frans         |
+  |-----------------+---------------|
+  | Nu              | maintenant    |
+  | begint          | commence      |
+  | tijd            | temps         |
+  | dus             | alors         |
+  | en              | et            |
+  | ik              | je            |
+  | Sta op!         | Lève-toi!     |
+  | wanneer, als    | quand         |
+  | eindigt         | finit         |
+  | als             | si            |
+  | kan/mag         | peut          |
+  | gaan            | aller         |
+  | in/naar de      | au(x)         |
+  | is              | est/es        |
+  | ook             | aussi         |
+  | moet            | doit          |
+  | vandaag         | aujourd'hui   |
+  | morgen          | demain        |
+  | staat op        | se lève       |
+  | of              | ou            |
+  | heeft/heb       | a/as          |
+  | eerste          | premier(e)    |
+  | kiest           | choisit       |
+  | ik              | moi           |
+  | dag             | jour          |
+  | niet            | ne....pas     |
+  | dat             | que           |
+  | voor            | avant         |
+  | na              | apres         |
+  | zijn            | etre          |
+  | de hele tijd    | tout le temps |
+  | besluit         | decide        |
+  | er/erheen       | y             |
+  | toch            | quand meme    |
+  | buiten          | dehors        |
+  | pause           | recréation    |
+  | slaap           | dors          |
+  | wakker worden   | se revailler  |
+  | er vandoor gaan | s'en aller    |
+  | laatste         | dernier       |
+  | me              | mij           |
+  |                 |               |
+  
+** getallen
+  | Nederlands | Frans |
+  |------------+-------|
+  | un         | een   |
+  | deux       | twee  |
+  | trois      | drie  |
+  | quatre     | vier  |
+  | cinq       | vijf  |
+  | six        | zes   |
+  | sept       | 7     |
+  | huit       | acht  |
+  | neuf       | negen |
+  | dix        | tien  |
+
+* zinnetjes
+:PROPERTIES:
+:VISIBILITY: folded
+:END:
+| Nederlands          | Frans                      |
+|---------------------+----------------------------|
+| Hallo, ik ben Ronan | Bonjour, je m'appele Ronan |
+| Dit is mijn leven   | c'est mon vie              |
+|                     |                            |
+
+* DOING verhaallijn [40%]
+:PROPERTIES:
+:ORDERED:  t
+:VISIBILITY: children
+:END:
+** DONE Introductie [100%]
+CLOSED: [2022-06-06 ma 19:08]
+  1) [X] introductie
+     Bonjour, je m'appelle Ronan un c'est mon vie *of Bonjour, je m'appelle Ronan et voici à quoi ressemble ma journée*
+** DONE Preperatie voor: [2022-06-06 ma 18:59]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+
+  1) [X] Wakker worden
+     Je me réveille le premier sors du lit *check with Anne*
+  2) [X] kleding aan
+     Et je mets mes vêtements, d'abord un t-shirt, puis un pull et un pantalon. Mes couleurs préférées sont le jaune, le bleu et le vert.
+  3) [X] ontbijt
+     et je mets mes vêtements, d'abord un t-shirt, puis un pull et un pantalon, mes couleurs préférées sont le jaune, le bleu et le vert Par la suite je vas-y descend et je vais a la cuisine. Je fais petit déjeuner je mets du lait et des corn-flakes dans le bol. Je mange mon petit-déjeuner. Mon petit-déjeuner est délicieux. Je mets mes vêtements, d'abord un t-shirt, puis un pull et un pantalon, mes couleurs préférées sont le jaune, le bleu et le vert.
+  4) [X] tas pakken
+     Maintenant je prend mon sac et mon livre français. je prends encore plus de livres, je prends mon livre néerlandais et mon livre mathématique. J'ai mis tous me livres dans mon sac  
+  5) [X] computer
+     puis je vais sur mon ordinateur d'abord je joue à un jeu d'ordinateur et puis je vais à l'école.
+  6) [X] complete ding
+     Je me réveille le premier, á sortir du lit
+     et je mets mes vêtements, d'abord un t-shirt, puis un pull et un pantalon, mes couleurs préférées sont le jaune, le bleu et le vert.
+     Par la suite je vas-y descend et je vais a la cuisine. je fais petit déjeuner je mets du lait et des corn-flakes dans le bol. je mange mon petit-déjeuner. Mon petit-déjeuner est délicieux.
+     Maintenant je prend mon sac et mon livre français. je prends encore plus de livres, je prends mon livre néerlandais et mon livre mathématique. J'ai mis tous me livres dans mon sac
+     puis je vais sur mon ordinateur d'abord je joue à un jeu d'ordinateur et puis je vais à l'école.
+  
+** DOING School [42%]
+:PROPERTIES:
+:ORDERED:  t
+:VISIBILITY: al
+
+ensuite je vais a l'école, Pour ça je dépense passe généralement six heures j'ai 10 leçons mon favori est la physique.
+
+  1 ) [X] naar school
+     je prends mon vélo et je vais
+  2) [X] fietsen
+     je sur le vont je vois un magasin d'ordinateur et un super
+  3) [X] aankomen
+     Je me suis approché de l'école, j'ai laissé mon vélo dans la cour de l'école et je suis entré, après être entré, j'ai marché au la salle française.
+  4) [-] lessen
+     a. [X] frans
+        Pendant mon cours de français j'ai appris 15 mots: Fantastique, hippopotomonstrosesquipedaliophobie, recommencer, un détour, une nourriture, signifier, lundi, durable, intéressé, outre, ralentir, un calendrier, dedans, diviser un brutalement. Je ne toué le pas compris, mais le professeur explique. J'ai marché au la salle française.
+     b. [ ] nederlands
+        Pendant mon cours de néerlandais j'ai appris 5 phrase: "ik ben niet zo goed in frans" (je ne sais pas ce que c'est), "Julian is aardig en niet gemeen", "Ik spreek ook niet goed nederlands", "{ehhhhh} mon nederlands wordt beter door Donald Duck" un ""
+  5) [ ] pauze
+  6) [ ] lessen
+     a. [ ] wiskunde
+  7) [ ] naar huis
+** TODO Na school [0%]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+1) [ ] aankomen
+2) [ ] computer
+3) [ ] huiswerk
+
+** TODO Bedtijd [0%]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+1) [ ] naar boven
+2) [ ] pyjama aan
+3) [ ] bed in
+4) [ ] boek lezen
+5) [ ] slapen
+
+
+* Google translate woorden
+* cour
+* vélo
+* favori
+* généralement 
+* La physique
+* kilomètre
+* faire
+* je suis entré: als ik ga naar binnen

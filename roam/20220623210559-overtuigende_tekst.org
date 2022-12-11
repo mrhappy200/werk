@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       13822bd9-c1af-4098-aaf5-c702cb985a4b
+:END:
+#+title: overtuigende tekst
+bij dit tekstdoel hoort de tekstsoort: betogende tekst(betoog) bij dit soort tekst staat de mening/ het standpunt van de schrijver centraal, de schrijver probeert jou te overtuigen van zijn of haar mening door argumenten te noemen. de tekstvormen die daarbij horen zijn:
+- [[id:0baa89a6-de15-4b88-b60f-79c8bbe21784][recencie]]
+- [[id:14f0e349-ff86-468c-ac23-b6462a3605c8][ingezonden brief]]
+
+kenmerken van een betogende tekst zijn.
+ * De schrijver geeft zijn *mening.*
+ * Dit standpunt wordt onderbouwd met *argumenten.*
+ * De argumenten moeten de lezer *overtuigen* dat zijn mening de juiste is.
+de opbouw van een betogende tekst is als volgt
+ * inleiding: onderwerp noemen en het standpunt duiden
+ * kern: argumenten voor het *standpunt*
+ * slot: conclusie of samenvatten
+
+Of een lezer overtuigd wordt, ligt aan de argumenten. Met een argument wil de schrijver bewijzen dat hij of zij gelijk heeft en zijn/haar mening de juiste is.
+[[id:3028e286-e6aa-4e5d-90db-447ded5b3f90][argumenten]]

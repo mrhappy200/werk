@@ -1,0 +1,35 @@
+#+OPTIONS: ^:{}
+* English pitch
+  - target group
+    - 12 year old's that think that playing any game that has "war" in its name makes them very cool
+  - game specifications
+    - requires a computer with:
+      - at least an intel i9-12900k
+      - at least an Nvidia geForce rtx 3090
+      - a connected bank account with at least €2k on it
+    - you can see an eye-watering *two* meters infront of you, *two*
+    - it runs at a blazingly fast 15 fps*
+    - it is only 20Tib in size
+    - the name of the game is "world of submarines"
+  - selling points
+    - The game is the best of the best**
+    - The game has extremely good specifications as seen above
+    - Our custom made game offers the best quality in its league***
+  - target price
+    - only €40,-
+
+
+
+
+
+
+
+
+
+
+
+
+\* on the best hardware available, obviously not on the minimum hardware listed
+\** in the catagory best games named world of submarines 2008 (by us)
+\*** in the league games made by us
+

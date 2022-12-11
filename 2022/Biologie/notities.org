@@ -1,0 +1,28 @@
+
+* Witte bloedcelle: Antistoffen
+ 1. Bacterien
+    1. zit antigen aan
+ 2. Antistofcellen maken antistoffen
+ 3. Antistoffen binden aan het antigen
+ 4. Binding zorgt voor:
+    1. vreetcellen herkennen de antistofen
+    2. zoekteverwekker gaat dood
+* Koorts
+ * De temperatuur in je lichaam word geregeld door de _hypothalamus_.
+ * De _hypothalamus_ is een klein orgaan in je hersenen
+** Werking van koorts
+  - Temperatuur > 39 C
+  - sein aan 'thermostaat in hersenen' om af te koelen
+  - lichaam koelt af
+  - temperatuur daalt
+  - temperatuur < 37 C
+  - sein aan 'thermostaat' in hersenen op op te warmen
+  - lichaam warmt op
+  - temperatuur stijgt
+
+* Glucose in je bloed
+** insuline
+ * gemaakt door alvleesklier
+ * gaat in je bloed
+ * glucose naar glycogeen
+ * 

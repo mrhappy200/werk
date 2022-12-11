@@ -1,0 +1,2 @@
+#+OPTIONS: ^:{}
+Het probleem dat we willen oplossen is het volgens ons onnodig transport tussen distributiecentra en opslag. Dit verroorzaakt volgens ons veel co_{2} in de lucht en verlengt de levertijd van pakketjes.

@@ -1,0 +1,19 @@
+* Economie leerlijst
+[[Begrippen]]
+** H1
+ * /Hoe maak ik handig gebruik van mijn zakgeld/
+ * [[*Hoe houd ik rekening met inflatie][Hoe houd ik rekening met inflatie]]
+ * [[*Bedragen naar verschillende perioden omrekenen][Bedragen naar verschillende perioden omrekenen]]
+
+* Economie leerstof
+** H1
+*** Hoe houd ik rekening met inflatie
+alles wordt duurder, je hebt dus meer geld nodig om hetzelfde te kunnen kopen
+*** Bedragen naar verschillende perioden omrekenen
+Dit is erg simpel, je past het bedraag aan met het percentage inflatie
+* Begrippen
+| Begrip      | Uitleg                                                                                       |
+| Giraal geld | geld op een bankrekening                                                                     |
+| Inflatie    | De gemmiddelde prijsstijging van producten                                                   |
+| Budgetlijn  | De budgetlijk geeft aan voor 2 producten hoeveel je daarvan kan kopen met een bepaald object |
+|             |                                                                                              |
