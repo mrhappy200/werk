@@ -1,0 +1,2 @@
+perspex walls to make court smaller for small children
+opencv and webcam (projector?) to track where ball hits front wall

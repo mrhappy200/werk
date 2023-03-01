@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       352429d4-78c1-4bd5-add5-17bb8e537005
-:END:
-#+title: Nasc
-[[id:03c002ae-3286-4dcc-8f0d-6ef17dbbd4c5][NaSc Hoofdstuk 5.1]]
-[[id:b118bd2f-6538-4ac5-9890-af5351b5fe58][NaSc Hoofdstuk 5.4]]

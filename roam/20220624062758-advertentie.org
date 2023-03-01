@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       3e1e8412-5980-4acb-9bff-d7d64ea54c4c
-:END:
-#+title: advertentie
-

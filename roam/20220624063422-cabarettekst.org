@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       dc9394e5-a358-4aa4-9467-f9b9d5ab0bc9
-:END:
-#+title: cabarettekst
-

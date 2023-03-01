@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       245de014-2af1-4c2c-8d41-72a731435631
-:END:
-#+title: Hoofdstuk 13.2
-* [[id:42db4a3e-cd18-47d0-9673-823eb5c8a76a][insect ademhaling]]
-* [[id:be0fdb09-cd21-4901-a7c8-c74685be4f93][vis ademhaling]]

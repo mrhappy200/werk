@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       d030f2e9-b3b2-4749-966b-7801d2ce3663
-:END:
-#+title: insuline
-

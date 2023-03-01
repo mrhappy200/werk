@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       a92f8e49-f2fb-40ef-a085-2e86d3675db3
-:END:
-#+title: camouflage
-

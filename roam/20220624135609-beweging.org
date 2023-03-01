@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       9112b6e5-0ef5-4485-aafc-819498f411d1
-:END:
-#+title: beweging
-

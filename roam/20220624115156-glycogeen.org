@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       a22f75c0-debe-4679-94cc-08a08d2c9a6a
-:END:
-#+title: glycogeen
-

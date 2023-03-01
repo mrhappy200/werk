@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       806e9a07-38ee-4da7-a950-426c1c1eca72
-:END:
-#+title: Zoekend lezen
-je hebt een vraag waarop je het antwoord wil weten. Je gaat gericht naar dat antwoord op zoek in de text.

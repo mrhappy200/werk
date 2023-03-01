@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       a2fdaba6-bd3e-40d9-8428-40188aa967e8
-:END:
-#+title: Hoofdstuk 9.4
-* [[id:3ebdf543-7612-4710-bec4-0430a2132741][koorts]]
-
-orgaanafstoting

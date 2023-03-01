@@ -1,9 +1,0 @@
-:PROPERTIES:
-:ID:       f33d031c-49de-4c23-8c1a-dbc7fb8f3277
-:END:
-#+title: Diabetes
-Er zijn 2 types diabetes
-
-1. Diabetes type 1 is wanneer er onvoldoende insuline in het bloed zit om het lichaam te laten functioner dit komt door een kapotte of nonfunctionele alvleesklier
-
-2. Diabetes type 2 is waneer lichaamscellen ongevoelig worden voor insuline dit komt voor bij weinig bewegen en overgewicht

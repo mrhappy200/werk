@@ -1,9 +1,0 @@
-:PROPERTIES:
-:ID:       eba0ca5a-f8cb-441f-82be-d0d36047f8b2
-:END:
-#+title: biologie
-
-* [[id:5485cc6e-84e6-46b2-b865-5328e845c634][Hoofdstuk 9.2]]
-* [[id:a2fdaba6-bd3e-40d9-8428-40188aa967e8][Hoofdstuk 9.4]]
-* [[id:44147070-f622-47e9-a943-b026cbe7532c][Hoofdstuk 13.1]]
-* [[id:245de014-2af1-4c2c-8d41-72a731435631][Hoofdstuk 13.2]]

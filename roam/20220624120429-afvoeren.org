@@ -1,9 +1,0 @@
-:PROPERTIES:
-:ID:       4891754b-505d-48fb-a805-382a2365176f
-:END:
-#+title: Afvoeren
-
-------------------------------------------------> gal ---------> poep
-bloedcellen -> hemoglobine ---> bilirubine --------|
-                            |
-                            ---> ijzer [opslag]

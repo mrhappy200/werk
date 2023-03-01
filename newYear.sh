@@ -7,9 +7,9 @@ then
 	exit
 fi
 
-dir=$HOME/werk.new
+dir=$HOME/werk
 # Subjects to make folders for
-subjects=("Nederlands" "Wiskunde" "O&O" "Biologie" "Duits" "Engels" "Frans" "Geschiedenis" "LO" "Mentorles" "NaSc" "Tekenen")
+subjects=("Nederlands" "Wiskunde" "O&O" "Aardrijkskunde" "Duits" "Engels" "Frans" "Scheikunde" "LO" "Mentorles" "Natuurkunde" "Muziek")
 
 # cd into folder
 cd $dir

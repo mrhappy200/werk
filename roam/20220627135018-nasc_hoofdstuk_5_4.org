@@ -1,8 +1,0 @@
-:PROPERTIES:
-:ID:       b118bd2f-6538-4ac5-9890-af5351b5fe58
-:END:
-#+title: NaSc Hoofdstuk 5.4
-* Reactieschema
-** Reactieschema verbranding
-\(koolwaterstof(vorm)\:+zuurstof(gas)\rightarrow koolstofdioxide + water\)
-

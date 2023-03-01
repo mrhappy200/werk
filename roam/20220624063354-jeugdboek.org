@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       0ff4351a-fa1e-4f6b-bed9-7e9aebe73c44
-:END:
-#+title: jeugdboek
-

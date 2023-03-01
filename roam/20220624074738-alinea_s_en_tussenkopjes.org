@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       48ef5529-dd10-471c-9614-d77d175038df
-:END:
-#+title: Alinea's en tussenkopjes
-Een tekst is opgedeeld in stukjes. Die verschillende stukjes noem je *alinea's*. Elke alinea in het middenstuk vertelt iets over het onderwerp. Een *tussenkopje* is de titel van een alinea. Het tussenkopje geeft dan aan waar de alinea over gaat. Niet elke alinea hoeft een eigen tussenkopje te hebben. Soms gaan meerdere alinea's namelijk over hetzelfde deelonderwerp. In dat geval krijgt de eerste alinea over dat deelonderwerp het tussenkopje en de tweede (en de rest) alinea niet.

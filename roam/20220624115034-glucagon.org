@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       74dbb6a1-8c7b-4e32-bcdd-4aaf2fcce519
-:END:
-#+title: glucagon
-

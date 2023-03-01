@@ -1,0 +1,56 @@
+#+SETUPFILE: ./theme.theme
+* Data
+| Datum | Vak            | Stof                                                       |
+|-------+----------------+------------------------------------------------------------|
+| 13-03 | Natuurkunde    | H4 ¶1-4                                                    |
+| 13-03 | Engels         | Leestoets                                                  |
+| 14-03 | Duits          | H3-H4 + Leesvaardigheid + Signaalwoorden + Geslachtsregels |
+| 14-03 | Wiskunde       | H6                                                         |
+| 15-03 | Aardrijkskunde | H3 ¶1-4                                                    |
+| 16-03 | Scheikunde     | H3+H7                                                      |
+| 17-03 | Economie       | H4-H5                                                      |
+| 17-03 | Nederlands     | Formuleren en spelling (zie [[https://docs.google.com/document/d/1_g5oPJKXyJBn-56ZhpyMkpPcdlBO5eaoTW-HhwGt_qU/edit][dit doc]]                        |
+* Vakken
+** TODO Natuurkunde
+*** TODO H4 ¶1
+*** TODO H4 ¶2
+*** TODO H4 ¶3
+*** TODO H4 ¶4
+** TODO Engels
+*** TODO Leren lezen ;)
+** TODO Duits
+*** TODO H3-H4 woorden
+*** TODO Leesvaardigheid
+*** TODO Signaalwoorden
+*** DONE Geslachtsregels
+** TODO Wiskunde
+*** TODO H6
+** TODO Aardrijkskunde
+*** TODO H3 ¶1
+*** TODO H3 ¶2
+*** TODO H3 ¶3
+*** TODO H3 ¶4
+** TODO Scheikunde
+*** TODO H3
+*** TODO H7
+** TODO Economie
+*** TODO H4
+*** TODO H5
+** TODO Nederlands
+*** TODO Formuleren
+  - [X] Incongruentie
+  - [X] Tautologie
+  - [X] Pleonasme
+  - [ ] Contaminatie
+  - [ ] Foute verwijswoorden
+  - [ ] Slordige verwijswoorden
+  - [ ] Onjuiste inversie
+  - [ ] Onjuiste begrenzing
+  - [ ] Dat/als-constructie
+*** TODO Spelling
+
+#  LocalWords:  als-constructie
+
+# Local Variables:
+# eval: (add-hook 'after-save-hook (lambda () (org-html-export-to-html t)) t t)
+# end:

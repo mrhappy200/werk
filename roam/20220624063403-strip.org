@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       ca2e7b97-adf2-408c-83b2-0883373b47cc
-:END:
-#+title: strip
-

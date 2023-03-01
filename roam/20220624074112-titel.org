@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       7cead149-d375-49f8-94a1-a4ef4c0ba8db
-:END:
-#+title: titel
-Bijna ekle tekst heeft een *titel*. Meestal noemt de titel. Meestal noemt de titel het onderwerp of hij geeft een aanwijzing van wat het onderwerp is. Een titel in een (online) krant noem je ook wel een kop of een krantenkop. Een titel eindigt niet met een punt.

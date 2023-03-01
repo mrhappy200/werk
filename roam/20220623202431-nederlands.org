@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       ae978893-9772-4f84-a73e-20c2ce1499cc
-:END:
-#+title: Nederlands
-- [[id:8308cdaa-2d37-4f6c-be4b-c660684848aa][leesvaardigheid]]
-
-  Nederlands is een vak!

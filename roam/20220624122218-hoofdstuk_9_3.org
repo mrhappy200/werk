@@ -1,8 +1,0 @@
-:PROPERTIES:
-:ID:       09c79a6f-0473-405a-b19a-91aacf260f57
-:END:
-#+title: Hoofdstuk 9.3
-vorig hoofdstuk: [[id:5485cc6e-84e6-46b2-b865-5328e845c634][Hoofdstuk 9.2]]
-* [[id:cdaa0981-a80d-4f70-9c31-6df37db5700c][Huid]]
-* [[id:54f62b32-c7a3-4a18-b6cc-a60fd6702cde][Temperatuur]]
-* [[id:15ed01cc-40dd-4c6b-a6b4-1ff60cee1c25][Genezing wond]]
