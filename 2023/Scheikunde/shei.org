@@ -1,0 +1,21 @@
+* 7 elementen met 2 atomen
+| Naam      | Formule |
+|-----------+---------|
+| Waterstof | H₂      |
+| Stikstof  | N₂      |
+| Zuurstof  | O₂      |
+| Fluor     | F₂      |
+| Chloor    | Cl₂     |
+| Broom     | Br₂     |
+| Jood      | I₂      |
+
+* Namen van verbindingen
+| Naam            | Formule |
+| Fosforzuur      | H₃PO₄   |
+| Ammoniak        | NH₃     |
+| Ethanol         | C₂H₆O   |
+| Glucose         | C₆H₁₂O₆ |
+| Methaan         | CH₄     |
+| Koolstofdioxide | CO₂     |
+| Zwaveldioxide   | SO₂     |
+| Zwavelzuur      | H₂SO₄   |

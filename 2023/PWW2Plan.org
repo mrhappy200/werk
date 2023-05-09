@@ -1,4 +1,6 @@
 #+SETUPFILE: ./theme.theme
+#+OPTIONS: toc:2
+#+TODO: TODO DOING | DONE
 * Data
 | Datum | Vak            | Stof                                                       |
 |-------+----------------+------------------------------------------------------------|
@@ -9,25 +11,41 @@
 | 15-03 | Aardrijkskunde | H3 ¶1-4                                                    |
 | 16-03 | Scheikunde     | H3+H7                                                      |
 | 17-03 | Economie       | H4-H5                                                      |
-| 17-03 | Nederlands     | Formuleren en spelling (zie [[https://docs.google.com/document/d/1_g5oPJKXyJBn-56ZhpyMkpPcdlBO5eaoTW-HhwGt_qU/edit][dit doc]]                        |
+| 17-03 | Nederlands     | Formuleren en spelling (zie [[https://docs.google.com/document/d/1_g5oPJKXyJBn-56ZhpyMkpPcdlBO5eaoTW-HhwGt_qU/edit][dit doc]])                      |
 * Vakken
 ** TODO Natuurkunde
 *** TODO H4 ¶1
 *** TODO H4 ¶2
 *** TODO H4 ¶3
 *** TODO H4 ¶4
-** TODO Engels
-*** TODO Leren lezen ;)
-** TODO Duits
+** DOING Engels
+*** DONE Leren lezen ;)
+CLOSED: [2023-03-04 Sat 10:18]
+*** DOING Serieuzere lijst maken voor leren
+** DOING Duits
 *** TODO H3-H4 woorden
 *** TODO Leesvaardigheid
 *** TODO Signaalwoorden
 *** DONE Geslachtsregels
-** TODO Wiskunde
-*** TODO H6
-** TODO Aardrijkskunde
-*** TODO H3 ¶1
-*** TODO H3 ¶2
+** DONE Wiskunde
+CLOSED: [2023-03-05 Sun 19:17]
+*** DONE Herleiden
+CLOSED: [2023-03-05 Sun 19:17]
+- [X] H6 ¶1 Herleiden
+- [X] H6 ¶2 Breuken herleiden
+- [X] H6 ¶4 Wortels herleiden
+*** DONE Vergelijkingen
+CLOSED: [2023-03-03 Fri 16:00]
+- [X] H6 ¶3 Gebroken vergelijkingen
+- [X] H6 ¶5 Wortelvergelijkingen
+*** DONE Etc
+CLOSED: [2023-03-02 Thu 11:19]
+- [X] H6 ¶6 Substitueren
+** DOING Aardrijkskunde
+*** DONE H3 ¶1
+CLOSED: [2023-03-01 Wed 14:09]
+*** DONE H3 ¶2
+CLOSED: [2023-03-01 Wed 18:44]
 *** TODO H3 ¶3
 *** TODO H3 ¶4
 ** TODO Scheikunde
@@ -36,20 +54,23 @@
 ** TODO Economie
 *** TODO H4
 *** TODO H5
-** TODO Nederlands
-*** TODO Formuleren
+** DONE Nederlands
+CLOSED: [2023-03-02 Thu 19:24]
+*** DONE Formuleren
+CLOSED: [2023-03-02 Thu 10:43]
   - [X] Incongruentie
   - [X] Tautologie
   - [X] Pleonasme
-  - [ ] Contaminatie
-  - [ ] Foute verwijswoorden
-  - [ ] Slordige verwijswoorden
-  - [ ] Onjuiste inversie
-  - [ ] Onjuiste begrenzing
-  - [ ] Dat/als-constructie
-*** TODO Spelling
+  - [X] Contaminatie
+  - [X] Foute verwijswoorden
+  - [X] Slordige verwijswoorden
+  - [X] Onjuiste inversie
+  - [X] Onjuiste begrenzing
+  - [X] Dat/als-constructie
+*** DONE Spelling
+CLOSED: [2023-03-02 Thu 19:24]
 
-#  LocalWords:  als-constructie
+#  LocalWords:  als-constructie Wortelvergelijkingen
 
 # Local Variables:
 # eval: (add-hook 'after-save-hook (lambda () (org-html-export-to-html t)) t t)

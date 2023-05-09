@@ -1,0 +1,64 @@
+% Created 2023-04-18 Tue 09:39
+% Intended LaTeX compiler: pdflatex
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\usepackage{pgfplots}
+\usepgfplotslibrary{external}
+\tikzexternalize
+\date{\today}
+\title{}
+\hypersetup{
+ pdfauthor={},
+ pdftitle={},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 28.2 (Org mode 9.5.5)}, 
+ pdflang={English}}
+\begin{document}
+
+\tableofcontents
+
+
+\section{Nooit meer fouten}
+\label{sec:orgab22f78}
+\subsection{1. Vraag verkeerd gelezen}
+\label{sec:org414de86}
+Oplossing: Na het maken van opdracht, vraag nog eens doorlezen.
+\subsection{2. Bij exponentieel verband \(a(x-p)^n+q\) vergeten dat het \(\textbf{\underline{min}}\ p\) is}
+\label{sec:org5353681}
+Oplossing: aan het eind van \uline{elke} vraag controleren dat deze fout niet gemaakt is.
+\subsection{3. Bij het over de \(=\) halen vergeten met \(-1\) te vermenigvuldigen}
+\label{sec:orgfd1d22e}
+\subsection{4. Bij vermenigvuldigingsfactoren maken een decimaal teveel of te weinig \(23\% \neq 1,023\), \(23\% = 1,23\)}
+\label{sec:org886e8fa}
+\subsection{5. Te weinig oplossingen bij vragen die er meerdere hebben}
+\label{sec:org2441571}
+Oplossing: als het om een functie gaat kun je het je voorstellen als een grafiek en dus zien of er meerdere oplossingen zijn
+
+\begin{equation}
+\begin{tikzpicture}
+\begin{axis}[xmax=1.5,ymax=2,xmin=-1.5,ymin=0,]
+
+
+\addplot[color=red, domain=-2:2, domain y=-2:2, samples=200]{x^4};
+
+\addplot[color=green, domain=-2:2, domain y=-2:2, samples=200]{x^10};
+
+\node[label={180:{(-1,1)}},circle,fill,inner, set=1pt] at (axis cs:-1,1);
+\node[label={180:{(1,1)}},circle,fill,inner, set=1pt] at (axis cs:1,1);
+
+
+\end{axis}
+\end{tikzpicture}
+\end{equation}
+\end{document}
