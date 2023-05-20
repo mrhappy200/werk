@@ -1,94 +1,34 @@
+#+SETUPFILE: ./theme.theme
+#+OPTIONS: toc:0
+
 * Frans lijst
 ** Woorden
 1. [[https://docs.google.com/document/d/1iYefE8V06L0LFBjsXJ2QzAjb8FPM3zJ4sgBelZ0O4g0/edit][Lijst van docent]]
 2. [[https://docs.google.com/spreadsheets/d/1IXBNCJSbFWE94jWxe9Nrsj2uoLobR2maSa4xFMPXLNM/edit#gid=0][Mijn lijst(niet echt nodig maar wel handig)]] 
 
 ** Werkwoorden
-aller – to go
-
-Je vais
-Tu vas
-Il/Elle va
-Nous allons
-Vous allez
-Ils/Elles vont
-Past Participle – allé
-avoir – to have
-
-J’ai
-Tu as
-Il/Elle a
-Nous avons
-Vous avez
-Ils/Elles ont
-Past Participle – eu
-dire – to say, to tell
-
-Je dis
-Tu dis
-Il/Elle dit
-Nous disons
-Vous dites
-Ils/Elles disent
-Past Participle – dit
-être – to be
-
-Je suis
-Tu es
-Il/Elle est
-Nous sommes
-Vous êtes
-Ils/Elles sont
-Past Participle – été
-faire – to make, to do
-
-Je fais
-Tu fais
-Il/Elle fait
-Nous faisons
-Vous faites
-Ils/Elles – font
-Past Participle – fait
-falloir – to be necessary
-
-Il faut
-Past Participle – fallu
-pouvoir – to be able to do
-
-Je peux
-Tu peux
-Il/Elle peut
-Nous pouvons
-Vous pouvez
-Ils/Elles peuvent
-Past Participle – pu
-savoir – to know, to know how to
-
-Je sais
-Tu sais
-Il/Elle sait
-Nous savons
-Vous savez
-Ils/Elles savent
-Past Participle – su
-voir – to see
-
-Je vois
-Tu vois
-Il/Elle voit
-Nous voyons
-Vous voyez
-Ils/Elles voient
-Past Participle – vu
-vouloir – to want to
-
-Je veux
-Tu veux
-Il/Elle veut
-Nous voulons
-Vous voulez
-Ils/Elles veulent
-Past Participle – voulu
+Niet alle werkwoorden zijn nodig maar ik heb ze wel in de lijst voor toekomstige toetsen waarin ze wel nodig zullen zijn.
+|  :)        | *Vertaling*         | *je (j')* | *tu*     | *il / elle / on* | *nous*    | *vous*   | *ils / elles* | *volt. deelwoord* |
+|--------------------+---------------------+-----------+----------+------------------+-----------+----------+---------------+-------------------|
+| *être*             | zijn                | suis      | es       | est              | sommes    | êtes     | sont          | avoir été         |
+| *avoir*            | hebben              | ai        | as       | a                | avons     | avez     | ont           | avoir eu          |
+| *aller*            | gaan                | vais      | vas      | va               | allons    | allez    | vont          | être allé         |
+| *faire*            | doen/maken          | fais      | fais     | fait             | faisons   | faites   | font          | avoir fait        |
+| *pouvoir*          | kunnen/mogen        | peux      | peux     | peut             | pouvons   | pouvez   | peuvent       | avoir pu          |
+| *prendre*          | nemen               | prends    | prends   | prend            | prenons   | prenez   | prennent      | avoir pris        |
+| *savoir/connaître* | weten/kennen/kunnen | sais      | sais     | sait             | savons    | savez    | savent        | avoir su          |
+| *devoir*           | moeten/zullen       | dois      | dois     | doit             | devons    | devez    | doivent       | avoir dû          |
+| *vouloir*          | willen              | veux      | veux     | veut             | voulons   | voulez   | veulent       | avoir voulu       |
+| *voir*             | zien                | vois      | vois     | voit             | voyons    | voyez    | voient        | avoir vu          |
+| *dire*             | zeggen              | dis       | dis      | dit              | disons    | dites    | disent        | avoir dit         |
+| *venir*            | komen               | viens     | viens    | vient            | venons    | venez    | viennent      | être venu         |
+| *boire*            | drinken             | bois      | bois     | boit             | buvons    | buvez    | boivent       | avoir bu          |
+| *mettre*           | leggen/zetten       | mets      | mets     | met              | mettons   | mettez   | mettent       | avoir mis         |
+| *apprendre*        | leren               | apprends  | apprends | apprend          | apprenons | apprenez | apprennent    | avoir appris      |
+| *rendre*           | brengen             | rends     | rends    | rend             | rendons   | rendez   | rendent       | avoir rendu       |
+| *naître*           | geboren worden      | nais      | nais     | naît             | naissons  | naissez  | naissent      | être né           |
+| *coudre*           | naaien              | couds     | couds    | coud             | cousons   | cousez   | cousent       | avoir cousu       |
+| *lire*             | lezen               | lis       | lis      | lit              | lisons    | lisez    | lisent        | avoir lu          |
 
 ** Vraagwoorden
 |wie|qui|
