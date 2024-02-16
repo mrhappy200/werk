@@ -1,0 +1,136 @@
+#+OPTIONS: toc:3
+#+STARTUP: latexpreview
+#+LATEX_CLASS: article
+#+LATEX_HEADER: \usepackage{chemfig}
+#+LATEX_COMPILER: pdflatex
+#+SETUPFILE: export/setup/theme-darksun-local.setup
+#+TODO: TODO DOING | DONE
+#+OPTIONS: tex:dvisvgm
+#+NAME: date
+#+DATE: \today
+
+#+BEGIN_SRC bash :exports both
+  date # last updated
+#+END_SRC
+
+#+RESULTS: date
+: Sun 18 Jun 2023 09:40:21 CEST
+
+\(\chemfig{H-C(-[2]H)(-[6]H)-C(=[7]O)(-[9]H)}\)
+
+* data
+| datum  | vak | stof                                    |
+|--------+-----+-----------------------------------------|
+| 28-jun | Sk  | H4+H5                                   |
+| 28-jun | Fa  | Leestoets                               |
+| 29-jun | Ec  |                                         |
+| 29-jun | Ne  | Talent H1 t/m H5 + argumentatie         |
+| 30-jun | Na  | Waarschijnlijk H5+H6                    |
+| 30-jun | En  |                                         |
+| 3-jul  | Wi  | H7 + H9                                 |
+| 4-jul  | Du  | Luistertoets zie edpuzzles en classroom |
+* Vakken
+** DOING Scheikunde
+*** DONE H3
+CLOSED: [2023-06-13 Tue 18:53]
+Niet onderdeel van toets maar heeft belangrijke informatie voor toets.
+- [X] *Zeer goed* doorlezen
+*** DONE Chemische reacties
+CLOSED: [2023-06-13 Tue 18:53]
+**** DONE Formule opstellen(Met verhaaltje)
+CLOSED: [2023-06-13 Tue 18:53]
+- [-] Naamgeving moleculen
+  - [-] Namen elementen
+- [X] Reactievergelijkingen kloppend maken
+- [X] Drie soorten reacties
+  - [X] Ontledingsreacties
+  - [X] Verbrandingsreacties
+    - [X] Onvolledig
+    - [X] Volledig
+  - [X] Synthesereacties
+- [X] Toestandsaanduidingen
+  - [X] Aquatisch
+  - [X] Vast
+  - [X] Vloeibaar
+  - [X] Gas
+  - [X] (ander hoeft niet te leren)
+***** Voorbeeldopdrachen
+- [X] Geef de reactievergelijking van de volledige verbranding van vloeibaar propaanzuur ( \(C_3 H_6 O_2\) )
+- [-] Geef de reactievergelijking van synthese van het zout natriumchloride uit de elementen
+*** DONE Aantoningsreacties
+CLOSED: [2023-06-13 Tue 18:53]
+**** DONE Je weet wat een aantoningsreactie is en wat een reagens is
+CLOSED: [2023-06-13 Tue 18:54]
+- [X] Je weet dat wit kopersulfaat een reagens is voor water
+- [X] Je weet dat kalkwater een reagens is voor \(Co_2\)
+- [X] Je weet dat broomwater een reagens is voor zwaveldioxide
+- [X] Je weet hoe je waterstofgas kunt aantonen (je steekt het aan en luistert voor een karakteristiek blafje)
+- [X] Je weet hoe je zuurstof kunt aantonen ( je houd er een houtspaander in die gloeiend heet is, die licht dan op)
+
+  [toetsweek onbekend]
+** DOING Frans
+*** DOING Boeken lezen ter oefening
+- [ ] Asterix
+- [-] Frans boek met verhaaltjes
+- [X] Donald duck
+*** DOING Wat er in de les wordt gezegd
+- [-] Woordjes leren
+- [-] Vraagwoorden leren
+** TODO Economie
+[onbekend]
+** DOING Nederlands
+*** DOING Talent H1
+- [X] Lezen
+- [X] Opdrachten doen
+- [ ] Overhoord worden op regels
+*** DOING Talent H2
+- [-] Lezen
+- [-] Opdrachten doen
+- [ ] Overhoord worden op regels
+*** TODO Talent H3
+- [ ] Lezen
+- [ ] Opdrachten doen
+- [ ] Overhoord worden op regels
+*** TODO Talent H4
+- [ ] Lezen
+- [ ] Opdrachten doen
+- [ ] Overhoord worden op regels
+*** TODO Talent H5
+- [ ] Lezen
+- [ ] Opdrachten doen
+- [ ] Overhoord worden op regels
+
+** DOING Natuurkunde
+*Onder voorbehoud*
+*** DOING H5
+- [X] Lezen
+- [ ] Leren
+- [ ] Overhoord worden
+*** TODO H6
+- [ ] Lezen
+- [ ] Leren
+- [ ] Overhoord worden
+
+** TODO Engels
+[onbekend]
+** DOING Wiskunde
+*** DONE H7
+CLOSED: [2023-06-18 Sun 09:28]
+- [X] *Heel erg goed meedoen in herhalingslessen*
+- [X] Papa vragen om oefentoetsen ( als hij tijd heeft)
+*** DOING H9
+- [X] *Heel erg goed meedoen in herhalingslessen*
+- [X] Papa vragen om oefentoetsen ( als hij tijd heeft)
+- [ ] Opdrachten
+** DOING Duits
+[[~/werk/2023/Duits/PWW3/notities.org][extern document org]]
+[[http://localhost:8000/Duits/PWW3/notities.html][extern document html]]
+- [ ] quizlets in anki overzetten
+- [ ] anki doen
+- [ ] boek lezen
+
+# LocalWords:  edpuzzles classroom Asterix TODO
+
+# Local Variables:
+# eval: (add-hook 'after-save-hook (lambda () (org-html-export-to-html t)) t t)
+# end:

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       c332b4d6-7d59-4499-8b64-82ad93f25929
+:END:
+#+title: Todo
+* Master node
+this node contains only links to other nodes, its function is to serve as a list of all things that still need to be done.
+[[id:07ae8402-3a0a-453d-bfb0-34422f9660d4][PWW3(2023)]]
+[[id:4bfedb9e-0e93-445f-aed2-4c753f7c6d87][Homework]]

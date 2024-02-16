@@ -1,0 +1,75 @@
+#+OPTIONS: toc:3
+#+STARTUP: latexpreview
+#+LATEX_CLASS: article
+#+LATEX_HEADER: \usepackage{chemfig}
+#+LATEX_COMPILER: pdflatex
+#+SETUPFILE: export/setup/theme-darksun-local.setup
+#+TODO: TODO DOING | DONE
+#+OPTIONS: tex:dvisvgm
+#+NAME: date
+#+DATE: \today
+
+#+BEGIN_SRC sh :exports both
+  date # last updated
+#+END_SRC
+
+#+RESULTS:
+: Wed 14 Feb 2024 14:39:36 CET
+
+* Woorden
+** Werkwoorden
+** Belangrijke woordjes
+** Introductie
+** Klimaatverandering
+| Nederlands           | Frans                  |
+|----------------------+------------------------|
+| Het millieu          | L'environment          |
+| Klimaatverandering   | Changement klimatique  |
+| Verwarming klimaat   | Rechaufment climatique |
+| Droogte              | Secheresse             |
+| Temperatuur stijgt   | La temperatur monte    |
+| Vervuiling(vervuilt) | Pollution (polluez)    |
+| Overstroming         | Innondation            |
+|                      | L'effet de goz         |
+* Zinnetjes
+** Vergelijking
+** Belangrijke zinnetjes
+| Nederlands                             | Frans                                        |
+|----------------------------------------+----------------------------------------------|
+| Zou u dat kunnen herhalen              | Pourriez-vous répéter, s'il vous plaît       |
+| Ik weet het franse woord daarvoor niet | Je ne connais pas le mot pour ça en français |
+|                                        |                                              |
+** Introductie
+| Nederlands                                                         | Frans                                                                     |
+|--------------------------------------------------------------------+---------------------------------------------------------------------------|
+| Mijn naam is Ronan                                                 | Je m'appelle Ronan                                                        |
+| Ik ben 15 jaar oud                                                 | j'ai 15 ans                                                               |
+| Mijn hobbies zijn: Computeren en fietsen                           | Mes passe-temps sont: Les ordinateurs et la natation                      |
+| Ik houdt van computers omdat je er veel mee kunt                   | J'aime les ordinateurs parce qu'on peut faire beaucoup de choses avec eux |
+| Ik weet niet waarom ik van fietsen houdt, ik vindt het gewoon leuk | Je ne sais pas pourquoi j'aime le vélo, j'aime juste ça                   |
+| Ik bestteed veel tijd op mijn computer, mischien teveel.           | je passe beaucoup de temps sur mon ordinateur, peut-être trop             |
+** Klimaatverandering
+| Nederlands                                             | Frans                                             |
+|--------------------------------------------------------+---------------------------------------------------|
+| De opwarming van de aarde is zeer slecht voor de aarde | Rechaufment climatique es tres mal pour le terre  |
+| Klimaatverandering veroorzaakt droogte                 | Le changement climatique provoque la secheresse   |
+| Spanje kampt met droogte                               | l'Espagne est confrontee a la secheresse          |
+| De temperatuur stijgt door het broeikaseffect          | La temperatuur monte a cause de l'effect de serre |
+| mannen vervuilen het milieu                            | l'hommes polluent l'environment                   |
+| china heeft meer undocters dan egypte                  | la chine a plus d'unundocters que l'egypte        |
+
+
+
+
+
+
+
+* Grammatica
+** Trappen van vergelijking
+| Nederlands | Frans |
+|------------+-------|
+|            |       |
+
+# Local Variables:
+# eval: (add-hook 'after-save-hook (lambda () (org-html-export-to-html t)) t t)
+# end:

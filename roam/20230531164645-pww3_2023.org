@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       07ae8402-3a0a-453d-bfb0-34422f9660d4
+:END:
+#+title: PWW3(2023)
+*Studying for the testweek is important, from now on out all further nodes will be in Dutch to avoid confusion*
+[[id:049511a4-61d4-4b58-8710-17404e3a17e3][Daily tasks]] (reset todo states at beginning of day)
+
+

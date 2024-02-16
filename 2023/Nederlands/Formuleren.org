@@ -1,0 +1,57 @@
+* Dubbelop
+** Onjuiste herhaling
+Als een vast voorzetzel ten onrechte twee keer wordt gebruikt, is 
+dat een onjuiste herhaling.
+
+| Onjuist                                                                                                       | Juist                                                                                                   |
+|---------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------|
+| _Voor_ een toename van het aantal orgaandonoren zijn de afgelopen jaren al heel wat campagnes _voor_ gehouden | _Voor_ een toename van het aantal orgaandonoren zijn de afgelopen jaren al heel wat campagnes gehouden. |
+** Tautologie & Pleonasme
+Een tautologie is wanneer iets twee keer wordt gezegd met dezelfde woordsoort. Een pleonasme is hetzelfde als een tautologie maar met twee *verschillende* woordsoorten.
+| Soort      | Onjuist                                             | Juist                                               |
+|------------+-----------------------------------------------------+-----------------------------------------------------|
+| Tautologie | De president kreeg van de pers veel kritiek op zijn uitspraken, _maar steeds kon hij _echter rekenen op de waardering van zijn bevolking. | De president kreeg van de pers veel kritiek op zijn uitspraken, _maar_ steeds kon hij rekenen op waardering van de bevolking. |
+| Pleonasme  | De meeste slachtoffers van het consumptievuurwerk rond oud en nieuw zijn _minderjarige kinderen_. | De meeste slachtoffers van het consumptievuurwerk rond oud en nieuw zijn _kinderen_. |
+
+Pleonasmes en tautologieën komen ook voor in een correcte vorm als stijlfiguur.
+** Contaminatie
+\(\varnothing\)
+** Dubbele ontkenning
+In zinnen met een werkwoord dat al een ontkennend karakter heeft (voorkémen,
+misbruiken, verbieden, weerhouden, nalaten) wordt soms ten onrechte een tweede
+ontkenning toegevoegd.
+
+| Onjuist                                                                                         | Juist                                                                          |
+|-------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------|
+| hoe kun je bij zoveel stembiljetten voorkomen dat er bij het tellen geen fouten worden gemaakt? | Hoe kun je bij zoveel stembiljetten voorkomenvat telian fouten worden gemaakt? |
+
+* Fouten met verwijswoorden
+** Onjuist verwijzen
+ * Mannelijk/Vrouwelijk/Onzijdig
+ * Deze/Die
+ * Dit/Dat
+ * Hen/Hun
+ * Dat/Wat
+ * Wie/Waar
+** Onduidelijk verwijzen
+Verwijzen naar iets dat niet in de tekst staat.
+* Incongruentie
+** Incongruentie
+als het persoonsvorm niet in persoon en getal overeenkomt met het onderwerp.
+| Onjuist                                                                      | Juist                                                                         |
+|------------------------------------------------------------------------------+-------------------------------------------------------------------------------|
+| Deze president vindt dat de *media* heel vaak leugens over hem _verspreidt_. | Deze president vindt dat de *media* heel vaak leugens over hem _verspreiden_. |
+* Foutieve samentrekking
+** Foutieve samentrekking
+\(\varnothing\)
+* Foutieve beknopte bijzin
+** Foutive beknopte bijzin
+In een beknopte bijzin moet het 'denkbeeldige' onderwerp overeenkomen met het onderwerp van de hoofdzin.
+* Zinnen onjuist begrenzen
+** Zinnen onjuist begrenzen
+Een punt waar een comma hoort en andersom.
+* Onjuiste inversie
+| Onjuist                                                                                            | Juist                                                                                                |
+|----------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------|
+| Vroeger benoemde het staatshoofd de informateur, maar gebeurt dat sinds 2012 door de Tweede Kamer. | Vroeger benoemde het staatshoofd de informateur, maar _dat gebeurt_ sinds 2012 door de Tweede Kamer. |
+

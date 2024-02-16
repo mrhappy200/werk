@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       049511a4-61d4-4b58-8710-17404e3a17e3
+:END:
+#+title: Daily tasks
+* TODO Frans
+- [ ] begrijp oefentoets vragen (ten voorbereiding voor volgende toets)
+* TODO Duits
+- [X] Edpuzzles (controleer dat je de juiste doet)
+- [ ] 
+
+#  LocalWords:  Edpuzzles

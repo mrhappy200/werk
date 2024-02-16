@@ -14,6 +14,7 @@
 | 17-03 | Nederlands     | Formuleren en spelling (zie [[https://docs.google.com/document/d/1_g5oPJKXyJBn-56ZhpyMkpPcdlBO5eaoTW-HhwGt_qU/edit][dit doc]])                      |
 * Vakken
 ** TODO Natuurkunde
+
 *** TODO H4 ¶1
 *** TODO H4 ¶2
 *** TODO H4 ¶3

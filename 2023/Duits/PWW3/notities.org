@@ -1,0 +1,96 @@
+#+OPTIONS: toc:nil
+#+SETUPFILE: ./theme.theme
+* Leermateriaal
+ * Aangepaste woordenlijst: [[https://docs.google.com/document/d/1t6MFVhMXOJg22z5dsy6_y3pGN2kW28OJJlJOj3cjM7E/edit][woordenlijst]], [[https://quizlet.com/BenKrugerGSF/folders/kapitel-5-6-lernsets/sets][quizlet]] 157 woorden
+ * [[*Zwakke werkwoorden in de tegenwoordige tijd][Zwakke werkwoorden in de tegenwoordige tijd]]: Boek A Blz 11, 58
+ * [[*Voltooid deelwoord van zwakke werkwoorden][Het voltooid deelwoord van zwakke werkwoorden]]: Boek B Blz 131
+ * [[*Onregelmatige werkwoorden][Onregelmatige werkwoorden (Haben, sein & werden)]]: haben/sein: Boek A Blz 18, werden: Boek B Blz 118
+ * [[*Het geslacht van het zelfstandig naamwoord][Regels om het geslacht van woorden te bepalen]]: Boek A Blz 66
+ * [[*De vierde naamval][De vierde naamval]]: 3t1 boek A Blz 22-25, en hier [[https://nl.wiktionary.org/wiki/WikiWoordenboek:Duitse_naamvallen][wikionary]]
+ * [[*Bezittelijke voornaamwoorden][Bezittelijke voornaamwoorden]]
+
+* Zwakke werkwoorden in de tegenwoordige tijd
+ In het Duits heb je, net als in het Nederlands, zwakke en sterke werkwoorden. Bij een zwak werkwoorden blijft de klinker in de stam hetzelfde in de tegenwoordige én verleden tijd. Bij een sterk werkwoord kan die klinker veranderen.
+ *Bijvoorbeeld*:
+ | zwak    | sterk   | sterk    |
+ |---------+---------+----------|
+ | wohnen  | geben   | singen   |
+ | wohnte  | gab     | sang     |
+ | gewohnt | gegeben | gesungen |
+
+ Bij zwakke werkwoorden gaat de vervoeging altijd op dezelfde manier, namelijk met de letters in het volgende schema.
+ Bij woorden die eindigen op -s -ß -tz -x of -z (sisklanken) komt er bij 'Du' geen s bij.
+ | ich       | e  |
+ | du        | st |
+ | er/sie/es | t  |
+ | wir       | en |
+ | ihr       | t  |
+ | sie/Sie   | en |
+
+** stappenplan
+1. Bepaal de stam van het werkwoord door -en van het hele werkwoord door -en van het hele werkwoord af te halen.
+2. Plaats achter de stam de uitgang die hoort bij het persoonlijk voornaamwoord.
+*Bijvoorbeeld*:
+ wohnen - wohn - du wohnst
+ reisen - reis -  du reist
+* Voltooid deelwoord van zwakke werkwoorden
+Bij het voltooid deelwoord van zwakke werkwoorden is de regel bijna altijd: /ge/ + *stam* + t
+maar bij woorden met stam op -d of -t is het /ge/ + *stam* + et en als de stam op -ieren eindigt dan is het *stam* + /t/
+
+* Onregelmatige werkwoorden
+In het Duits heb je onregelmatige werkwoorden er zijn er maar drie maar die drie moet je onthouden, in de volgende tabel staan de vervoegingen en voltooid deelwoorden van de onregelmatige werkwoorden haben, sein en werden
+|             | haben  | sein     | werden   |
+| ich         | habe   | bin      | werde    |
+| du          | hast   | bist     | w *i* rst  |
+| er/sie/est  | hat    | ist      | w *i* rd   |
+| wir         | haben  | sind     | werden   |
+| ihr         | habt   | seid     | werd *e* t |
+| sie/Sie     | haben  | sind     | werden   |
+| volt. deelw | gehabt | gewesen | geworden |
+* Het geslacht van het zelfstandig naamwoord
+** woorden die (bijna) altijd mannelijk zijn
+- Mannelijke personen
+- Mannelijke dieren
+- Mannelijke beroepen
+- de dagen
+- de maanden
+- de dagdelen
+- de jaargetijden
+** woorden die (bijna) altijd vrouwelijk zijn
+- vrouwelijke personen
+- vrouwelijke dieren
+- vrouwelijke beroepen
+- woorden op /-heit/
+- woorden op /-keit/
+- woorden op /-ung/
+- de meeste woorden op /-e/
+** woorden die (bijna) altijd onzijdig zijn
+- veel woorden die in het nederlands /het-woorden/ zijn
+- (verklein)woorden op /-chen/
+** woorden die meervoud zijn (dus met /die/)
+- de meervouds vorm van /der-/ /die-/ en /das-/ woorden
+
+* De vierde naamval
+Bij de vierde naamval veranderen der, die en das in den die en das
+Je krijgt de vierde naamval in de volgende scenarios
+ * Bij de voorzetsels durch, für, gegen, ohne, um
+ * Bij de werkwoorden fragen, bitten, es gibt, kosten en interessieren
+ * Bij het lijdend voorwerp
+
+* Bezittelijke voornaamwoorden
+De bezittlijke voornaamwoorden zijn als volgt
+| NL        | DE    |
+|-----------+-------|
+| Mijn      | mein  |
+| Jouw, je  | dein  |
+| Zijn      | sein  |
+| Haar      | ihr   |
+| ons, onze | unser |
+| jullie    | euer  |
+| hun       | ihr   |
+| uw        | Ihr   |
+
+
+# Local Variables:
+# eval: (add-hook 'after-save-hook (lambda () (org-html-export-to-html t)) t t)
+# end:

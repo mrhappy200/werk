@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2023-07-02 Sun 14:47 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org Mode" />
+<style>
+  #content { max-width: 60em; margin: auto; }
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #e6e6e6;
+    border-radius: 3px;
+    background-color: #f2f2f2;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    top: -8px;
+    right: 12px;
+    padding: 3px;
+    color: #555;
+    background-color: #f2f2f299;
+  }
+  pre.src:hover:before { display: inline; margin-top: 14px;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-authinfo::before { content: 'Authinfo'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { }
+</style>
+<link rel="stylesheet" type="text/css" href="export/styles/darksun/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="export/styles/darksun/css/darksun.css"/>
+<link rel="stylesheet" type="text/css" href="export/styles/darksun/css/hideshow.css"/>
+<script type="text/javascript" src="export/styles/darksun/js/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="export/styles/darksun/js/jquery-ui-1.10.2.min.js"></script>
+<script type="text/javascript" src="export/styles/darksun/js/jquery.localscroll-min.js"></script>
+<script type="text/javascript" src="export/styles/darksun/js/jquery.scrollTo-1.4.3.1-min.js"></script>
+<script type="text/javascript" src="export/styles/darksun/js/jquery.zclip.min.js"></script>
+<script type="text/javascript" src="export/styles/darksun/js/darksun.js"></script>
+<script type="text/javascript" src="export/styles/darksun/js/hideshow.js"></script>
+<script type="text/javascript" src="export/styles/lib/js/jquery.stickytableheaders.min.js"></script>
+</head>
+<body>
+<div id="content" class="content">
+<div id="table-of-contents" role="doc-toc">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents" role="doc-toc">
+<ul>
+<li><a href="#orgf95afb9">1. data</a></li>
+<li><a href="#org7c57fae">2. Vakken</a>
+<ul>
+<li><a href="#org9684996">2.1. <span class="todo DOING">DOING</span> Scheikunde</a>
+<ul>
+<li><a href="#org8f24163">2.1.1. <span class="done DONE">DONE</span> H3</a></li>
+<li><a href="#orgb8b3893">2.1.2. <span class="done DONE">DONE</span> Chemische reacties</a></li>
+<li><a href="#org89fa971">2.1.3. <span class="done DONE">DONE</span> Aantoningsreacties</a></li>
+</ul>
+</li>
+<li><a href="#org427bb17">2.2. <span class="todo DOING">DOING</span> Frans</a>
+<ul>
+<li><a href="#org1125a99">2.2.1. <span class="todo DOING">DOING</span> Boeken lezen ter oefening</a></li>
+<li><a href="#org9089ac3">2.2.2. <span class="todo DOING">DOING</span> Wat er in de les wordt gezegd</a></li>
+</ul>
+</li>
+<li><a href="#org75c621e">2.3. <span class="todo TODO">TODO</span> Economie</a></li>
+<li><a href="#orgf9c6ee3">2.4. <span class="todo DOING">DOING</span> Nederlands</a>
+<ul>
+<li><a href="#org52dacb2">2.4.1. <span class="todo DOING">DOING</span> Talent H1</a></li>
+<li><a href="#orgf21272c">2.4.2. <span class="todo DOING">DOING</span> Talent H2</a></li>
+<li><a href="#orgbf5d8e5">2.4.3. <span class="todo TODO">TODO</span> Talent H3</a></li>
+<li><a href="#org877ee31">2.4.4. <span class="todo TODO">TODO</span> Talent H4</a></li>
+<li><a href="#org025775b">2.4.5. <span class="todo TODO">TODO</span> Talent H5</a></li>
+</ul>
+</li>
+<li><a href="#orgd88eea6">2.5. <span class="todo DOING">DOING</span> Natuurkunde</a>
+<ul>
+<li><a href="#org7744e34">2.5.1. <span class="todo DOING">DOING</span> H5</a></li>
+<li><a href="#orga9671a9">2.5.2. <span class="todo TODO">TODO</span> H6</a></li>
+</ul>
+</li>
+<li><a href="#org37e2bc1">2.6. <span class="todo TODO">TODO</span> Engels</a></li>
+<li><a href="#orgd07272f">2.7. <span class="todo DOING">DOING</span> Wiskunde</a>
+<ul>
+<li><a href="#org8f87664">2.7.1. <span class="done DONE">DONE</span> H7</a></li>
+<li><a href="#orgd564e39">2.7.2. <span class="todo DOING">DOING</span> H9</a></li>
+</ul>
+</li>
+<li><a href="#orgfe1def3">2.8. <span class="todo DOING">DOING</span> Duits</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class="org-src-container">
+<pre class="src src-bash">date # last updated
+</pre>
+</div>
+
+<pre class="example">
+Sun 18 Jun 2023 09:40:21 CEST
+</pre>
+
+
+<p>
+<img src="ltximg/PWW3Plan_5aa142d443a5978dd8f6ea278f34825eec8d678e.svg" alt="\(\chemfig{H-C(-[2]H)(-[6]H)-C(=[7]O)(-[9]H)}\)" class="org-svg" />
+</p>
+
+<div id="outline-container-orgf95afb9" class="outline-2">
+<h2 id="orgf95afb9"><span class="section-number-2">1.</span> data</h2>
+<div class="outline-text-2" id="text-1">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">datum</th>
+<th scope="col" class="org-left">vak</th>
+<th scope="col" class="org-left">stof</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">28-jun</td>
+<td class="org-left">Sk</td>
+<td class="org-left">H4+H5</td>
+</tr>
+
+<tr>
+<td class="org-left">28-jun</td>
+<td class="org-left">Fa</td>
+<td class="org-left">Leestoets</td>
+</tr>
+
+<tr>
+<td class="org-left">29-jun</td>
+<td class="org-left">Ec</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">29-jun</td>
+<td class="org-left">Ne</td>
+<td class="org-left">Talent H1 t/m H5 + argumentatie</td>
+</tr>
+
+<tr>
+<td class="org-left">30-jun</td>
+<td class="org-left">Na</td>
+<td class="org-left">Waarschijnlijk H5+H6</td>
+</tr>
+
+<tr>
+<td class="org-left">30-jun</td>
+<td class="org-left">En</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">3-jul</td>
+<td class="org-left">Wi</td>
+<td class="org-left">H7 + H9</td>
+</tr>
+
+<tr>
+<td class="org-left">4-jul</td>
+<td class="org-left">Du</td>
+<td class="org-left">Luistertoets zie edpuzzles en classroom</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="outline-container-org7c57fae" class="outline-2">
+<h2 id="org7c57fae"><span class="section-number-2">2.</span> Vakken</h2>
+<div class="outline-text-2" id="text-2">
+</div>
+<div id="outline-container-org9684996" class="outline-3">
+<h3 id="org9684996"><span class="section-number-3">2.1.</span> <span class="todo DOING">DOING</span> Scheikunde</h3>
+<div class="outline-text-3" id="text-2-1">
+</div>
+<div id="outline-container-org8f24163" class="outline-4">
+<h4 id="org8f24163"><span class="section-number-4">2.1.1.</span> <span class="done DONE">DONE</span> H3</h4>
+<div class="outline-text-4" id="text-2-1-1">
+<p>
+Niet onderdeel van toets maar heeft belangrijke informatie voor toets.
+</p>
+<ul class="org-ul">
+<li class="on"><code>[X]</code> <b>Zeer goed</b> doorlezen</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgb8b3893" class="outline-4">
+<h4 id="orgb8b3893"><span class="section-number-4">2.1.2.</span> <span class="done DONE">DONE</span> Chemische reacties</h4>
+<div class="outline-text-4" id="text-2-1-2">
+</div>
+<ol class="org-ol">
+<li><a id="orgf7e310e"></a><span class="done DONE">DONE</span> Formule opstellen(Met verhaaltje)<br />
+<div class="outline-text-5" id="text-2-1-2-1">
+<ul class="org-ul">
+<li class="trans"><code>[-]</code> Naamgeving moleculen
+<ul class="org-ul">
+<li class="trans"><code>[-]</code> Namen elementen</li>
+</ul></li>
+<li class="on"><code>[X]</code> Reactievergelijkingen kloppend maken</li>
+<li class="on"><code>[X]</code> Drie soorten reacties
+<ul class="org-ul">
+<li class="on"><code>[X]</code> Ontledingsreacties</li>
+<li class="on"><code>[X]</code> Verbrandingsreacties
+<ul class="org-ul">
+<li class="on"><code>[X]</code> Onvolledig</li>
+<li class="on"><code>[X]</code> Volledig</li>
+</ul></li>
+<li class="on"><code>[X]</code> Synthesereacties</li>
+</ul></li>
+<li class="on"><code>[X]</code> Toestandsaanduidingen
+<ul class="org-ul">
+<li class="on"><code>[X]</code> Aquatisch</li>
+<li class="on"><code>[X]</code> Vast</li>
+<li class="on"><code>[X]</code> Vloeibaar</li>
+<li class="on"><code>[X]</code> Gas</li>
+<li class="on"><code>[X]</code> (ander hoeft niet te leren)</li>
+</ul></li>
+</ul>
+</div>
+<ol class="org-ol">
+<li><a id="org60da0ca"></a>Voorbeeldopdrachen<br />
+<div class="outline-text-6" id="text-2-1-2-1-1">
+<ul class="org-ul">
+<li class="on"><code>[X]</code> Geef de reactievergelijking van de volledige verbranding van vloeibaar propaanzuur ( <img src="ltximg/PWW3Plan_67e5498c9d8a304b967e7d28b869b7e1d09602c9.svg" alt="\(C_3 H_6 O_2\)" class="org-svg" /> )</li>
+<li class="trans"><code>[-]</code> Geef de reactievergelijking van synthese van het zout natriumchloride uit de elementen</li>
+</ul>
+</div>
+</li>
+</ol>
+</li>
+</ol>
+</div>
+<div id="outline-container-org89fa971" class="outline-4">
+<h4 id="org89fa971"><span class="section-number-4">2.1.3.</span> <span class="done DONE">DONE</span> Aantoningsreacties</h4>
+<div class="outline-text-4" id="text-2-1-3">
+</div>
+<ol class="org-ol">
+<li><a id="orge7a3ec9"></a><span class="done DONE">DONE</span> Je weet wat een aantoningsreactie is en wat een reagens is<br />
+<div class="outline-text-5" id="text-2-1-3-1">
+<ul class="org-ul">
+<li class="on"><code>[X]</code> Je weet dat wit kopersulfaat een reagens is voor water</li>
+<li class="on"><code>[X]</code> Je weet dat kalkwater een reagens is voor <img src="ltximg/PWW3Plan_ebdb8c08304584de7a7a8d1430a70c3a532f6784.svg" alt="\(Co_2\)" class="org-svg" /></li>
+<li class="on"><code>[X]</code> Je weet dat broomwater een reagens is voor zwaveldioxide</li>
+<li class="on"><code>[X]</code> Je weet hoe je waterstofgas kunt aantonen (je steekt het aan en luistert voor een karakteristiek blafje)</li>
+<li class="on"><code>[X]</code> <p>
+Je weet hoe je zuurstof kunt aantonen ( je houd er een houtspaander in die gloeiend heet is, die licht dan op)
+</p>
+
+<p>
+[toetsweek onbekend]
+</p></li>
+</ul>
+</div>
+</li>
+</ol>
+</div>
+</div>
+<div id="outline-container-org427bb17" class="outline-3">
+<h3 id="org427bb17"><span class="section-number-3">2.2.</span> <span class="todo DOING">DOING</span> Frans</h3>
+<div class="outline-text-3" id="text-2-2">
+</div>
+<div id="outline-container-org1125a99" class="outline-4">
+<h4 id="org1125a99"><span class="section-number-4">2.2.1.</span> <span class="todo DOING">DOING</span> Boeken lezen ter oefening</h4>
+<div class="outline-text-4" id="text-2-2-1">
+<ul class="org-ul">
+<li class="off"><code>[&#xa0;]</code> Asterix</li>
+<li class="trans"><code>[-]</code> Frans boek met verhaaltjes</li>
+<li class="on"><code>[X]</code> Donald duck</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org9089ac3" class="outline-4">
+<h4 id="org9089ac3"><span class="section-number-4">2.2.2.</span> <span class="todo DOING">DOING</span> Wat er in de les wordt gezegd</h4>
+<div class="outline-text-4" id="text-2-2-2">
+<ul class="org-ul">
+<li class="trans"><code>[-]</code> Woordjes leren</li>
+<li class="trans"><code>[-]</code> Vraagwoorden leren</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-org75c621e" class="outline-3">
+<h3 id="org75c621e"><span class="section-number-3">2.3.</span> <span class="todo TODO">TODO</span> Economie</h3>
+<div class="outline-text-3" id="text-2-3">
+<p>
+[onbekend]
+</p>
+</div>
+</div>
+<div id="outline-container-orgf9c6ee3" class="outline-3">
+<h3 id="orgf9c6ee3"><span class="section-number-3">2.4.</span> <span class="todo DOING">DOING</span> Nederlands</h3>
+<div class="outline-text-3" id="text-2-4">
+</div>
+<div id="outline-container-org52dacb2" class="outline-4">
+<h4 id="org52dacb2"><span class="section-number-4">2.4.1.</span> <span class="todo DOING">DOING</span> Talent H1</h4>
+<div class="outline-text-4" id="text-2-4-1">
+<ul class="org-ul">
+<li class="on"><code>[X]</code> Lezen</li>
+<li class="on"><code>[X]</code> Opdrachten doen</li>
+<li class="off"><code>[&#xa0;]</code> Overhoord worden op regels</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgf21272c" class="outline-4">
+<h4 id="orgf21272c"><span class="section-number-4">2.4.2.</span> <span class="todo DOING">DOING</span> Talent H2</h4>
+<div class="outline-text-4" id="text-2-4-2">
+<ul class="org-ul">
+<li class="trans"><code>[-]</code> Lezen</li>
+<li class="trans"><code>[-]</code> Opdrachten doen</li>
+<li class="off"><code>[&#xa0;]</code> Overhoord worden op regels</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgbf5d8e5" class="outline-4">
+<h4 id="orgbf5d8e5"><span class="section-number-4">2.4.3.</span> <span class="todo TODO">TODO</span> Talent H3</h4>
+<div class="outline-text-4" id="text-2-4-3">
+<ul class="org-ul">
+<li class="off"><code>[&#xa0;]</code> Lezen</li>
+<li class="off"><code>[&#xa0;]</code> Opdrachten doen</li>
+<li class="off"><code>[&#xa0;]</code> Overhoord worden op regels</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org877ee31" class="outline-4">
+<h4 id="org877ee31"><span class="section-number-4">2.4.4.</span> <span class="todo TODO">TODO</span> Talent H4</h4>
+<div class="outline-text-4" id="text-2-4-4">
+<ul class="org-ul">
+<li class="off"><code>[&#xa0;]</code> Lezen</li>
+<li class="off"><code>[&#xa0;]</code> Opdrachten doen</li>
+<li class="off"><code>[&#xa0;]</code> Overhoord worden op regels</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org025775b" class="outline-4">
+<h4 id="org025775b"><span class="section-number-4">2.4.5.</span> <span class="todo TODO">TODO</span> Talent H5</h4>
+<div class="outline-text-4" id="text-2-4-5">
+<ul class="org-ul">
+<li class="off"><code>[&#xa0;]</code> Lezen</li>
+<li class="off"><code>[&#xa0;]</code> Opdrachten doen</li>
+<li class="off"><code>[&#xa0;]</code> Overhoord worden op regels</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgd88eea6" class="outline-3">
+<h3 id="orgd88eea6"><span class="section-number-3">2.5.</span> <span class="todo DOING">DOING</span> Natuurkunde</h3>
+<div class="outline-text-3" id="text-2-5">
+<p>
+<b>Onder voorbehoud</b>
+</p>
+</div>
+<div id="outline-container-org7744e34" class="outline-4">
+<h4 id="org7744e34"><span class="section-number-4">2.5.1.</span> <span class="todo DOING">DOING</span> H5</h4>
+<div class="outline-text-4" id="text-2-5-1">
+<ul class="org-ul">
+<li class="on"><code>[X]</code> Lezen</li>
+<li class="off"><code>[&#xa0;]</code> Leren</li>
+<li class="off"><code>[&#xa0;]</code> Overhoord worden</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orga9671a9" class="outline-4">
+<h4 id="orga9671a9"><span class="section-number-4">2.5.2.</span> <span class="todo TODO">TODO</span> H6</h4>
+<div class="outline-text-4" id="text-2-5-2">
+<ul class="org-ul">
+<li class="off"><code>[&#xa0;]</code> Lezen</li>
+<li class="off"><code>[&#xa0;]</code> Leren</li>
+<li class="off"><code>[&#xa0;]</code> Overhoord worden</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org37e2bc1" class="outline-3">
+<h3 id="org37e2bc1"><span class="section-number-3">2.6.</span> <span class="todo TODO">TODO</span> Engels</h3>
+<div class="outline-text-3" id="text-2-6">
+<p>
+[onbekend]
+</p>
+</div>
+</div>
+<div id="outline-container-orgd07272f" class="outline-3">
+<h3 id="orgd07272f"><span class="section-number-3">2.7.</span> <span class="todo DOING">DOING</span> Wiskunde</h3>
+<div class="outline-text-3" id="text-2-7">
+</div>
+<div id="outline-container-org8f87664" class="outline-4">
+<h4 id="org8f87664"><span class="section-number-4">2.7.1.</span> <span class="done DONE">DONE</span> H7</h4>
+<div class="outline-text-4" id="text-2-7-1">
+<ul class="org-ul">
+<li class="on"><code>[X]</code> <b>Heel erg goed meedoen in herhalingslessen</b></li>
+<li class="on"><code>[X]</code> Papa vragen om oefentoetsen ( als hij tijd heeft)</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgd564e39" class="outline-4">
+<h4 id="orgd564e39"><span class="section-number-4">2.7.2.</span> <span class="todo DOING">DOING</span> H9</h4>
+<div class="outline-text-4" id="text-2-7-2">
+<ul class="org-ul">
+<li class="on"><code>[X]</code> <b>Heel erg goed meedoen in herhalingslessen</b></li>
+<li class="on"><code>[X]</code> Papa vragen om oefentoetsen ( als hij tijd heeft)</li>
+<li class="off"><code>[&#xa0;]</code> Opdrachten</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-orgfe1def3" class="outline-3">
+<h3 id="orgfe1def3"><span class="section-number-3">2.8.</span> <span class="todo DOING">DOING</span> Duits</h3>
+<div class="outline-text-3" id="text-2-8">
+<p>
+<a href="file:///home/mrhappy200/werk/2023/Duits/PWW3/notities.html">extern document org</a>
+<a href="http://localhost:8000/Duits/PWW3/notities.html">extern document html</a>
+</p>
+<ul class="org-ul">
+<li class="off"><code>[&#xa0;]</code> quizlets in anki overzetten</li>
+<li class="off"><code>[&#xa0;]</code> anki doen</li>
+<li class="off"><code>[&#xa0;]</code> boek lezen</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="date">Created: 2023-07-02 Sun 14:47</p>
+<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

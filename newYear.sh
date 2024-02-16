@@ -9,7 +9,7 @@ fi
 
 dir=$HOME/werk
 # Subjects to make folders for
-subjects=("Nederlands" "Wiskunde" "O&O" "Aardrijkskunde" "Duits" "Engels" "Frans" "Scheikunde" "LO" "Mentorles" "Natuurkunde" "Muziek")
+subjects=("Nederlands" "Wiskunde" "O&O" "Aardrijkskunde" "Engels" "Frans" "Scheikunde" "LO" "Mentorles" "Natuurkunde" "Maatschapijleer")
 
 # cd into folder
 cd $dir

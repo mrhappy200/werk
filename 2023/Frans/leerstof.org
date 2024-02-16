@@ -1,0 +1,107 @@
+#+OPTIONS: toc:3
+#+STARTUP: latexpreview
+#+LATEX_CLASS: article
+#+LATEX_HEADER: \usepackage{chemfig}
+#+LATEX_COMPILER: pdflatex
+#+SETUPFILE: export/setup/theme-darksun-local.setup
+#+TODO: TODO DOING | DONE
+#+OPTIONS: tex:dvisvgm
+#+NAME: date
+#+DATE: \today
+
+#+BEGIN_SRC bash :exports both
+  date # last updated
+#+END_SRC
+
+#+RESULTS:
+: Mon 30 Oct 2023 19:49:46 CET
+
+* Het bijvoegelijk naamwoord | L'adjectif
+** Mannelijk enlkelvoud
+gewoon wat je leert
+** Vrouwelijk enkelvoud
+Krijgt meestal een /-e/
+
+Bij een aantal is het anders
+| mannelijk | vrouwelijk |
+|-----------+------------|
+| /-e/      | /-e/       |
+| /-er/     | /-ère/     |
+| /-f/      | /-ve/      |
+| /-x/      | /-se/      |
+
+sommige vrouwelijke vormen krijgen een dubbele medeklinker
+bijvoorbeeld =naturel= wordt =naturelle=
+ * /-el/
+ * /-on/
+ * /-en/
+
+Er zijn ook een paar bijvoegelijke naamwoorden die helemaal anders worden (bijvoorbeeld: =gentil= wordt =gentille=) deze ken je bijna allemaal.
+
+** Mannelijk en vrouwelijk meervoud
+In het meervoud krijgt het bijvoegelijk naamwoord meestal een /-s/ (bijvoorbeeld: =noir= wordt =noirs=)
+
+Sommige *mannelijke* bijvoegelijke naamwoorden zijn anders
+
+| normaal | meervoud |
+|---------+----------|
+| /-s/    | /-s/     |
+| /-x/    | /-x/     |
+| /-al/   | /-aux/   |
+| /-eau/  | /-eaux/  |
+
+enkele woorden zijn in het enkel- en meervoud hetzelfde
+ * marron
+ * orange
+
+** bel nouvel vieil
+Deze woorden hebben een speciale vorm voor een *mannelijk* zelfstandig naamwoord dat met een klinker of stomme h begint.
+| voor medeklinker | voor klinker/stomme h |
+|------------------+-----------------------|
+| beau             | bel                   |
+| nouveau          | nouvel                |
+| vieux            | vieil                 |
+
+** De plaats van het bijvoeglijk naamwoord
+een bijvoegelijk naamwoord staat *achter* het zelfstandig naamwoord.
+Sommige staan er *voor*
+
+Deze:
+ * beau
+ * bon
+ * joli
+ * haut
+ * long
+ * petit
+ * jeune
+ * vieux
+ * grand
+ * gros
+ * mauvais
+ * mechant
+ * premier
+ * deuxieme
+ * dernier
+ * autre
+ * nouveau
+
+** Bijvoegelijke naamwoorden van landennamen
+Deze wordt in het Frans *niet* met een hoofdletter geschreven
+De woorden zelf zijn wel logisch
+
+* Telwoorden en data
+** Hoofdtelwoorden
+deze ken je
+** Rangtelwoorden
+maak je door /-ième/ achter het hoofdtelwoord te zetten.
+De volgende getallen wijken hiervan af:
+ * premier en première kloppen allenbij
+ * quatrième
+ * cinq*u*ième
+ * neu*v*ième
+ * vingt et *unième*
+** Data
+Bij data gebruik je *le* met een hoofdtelwoord, behalve bij de eerste van de maand, dan gebruk je =le 1er= {maand}
+
+** Kloktijden
+beginnen altijd met *il est*

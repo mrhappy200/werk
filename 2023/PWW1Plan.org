@@ -1,0 +1,166 @@
+#+OPTIONS: toc:3
+#+STARTUP: latexpreview
+#+LATEX_CLASS: article
+#+LATEX_HEADER: \usepackage{chemfig}
+#+LATEX_COMPILER: pdflatex
+#+SETUPFILE: export/setup/theme-darksun-local.setup
+#+TODO: TODO DOING | DONE
+#+OPTIONS: tex:dvisvgm
+#+NAME: date
+#+AUTHOR: Ronan Berntsen
+#+DATE: \today
+
+#+BEGIN_SRC bash :exports both
+  date # last updated
+#+END_SRC
+
+#+RESULTS:
+: Mon 13 Nov 2023 17:01:07 CET
+
+* Data
+| datum     | vak  | stof              |
+|-----------+------+-------------------|
+| ma 27 nov | nat  | H1/H2             |
+| ma 27 nov | schk | H1 tm H3.4        |
+| di 28 nov | fatl | Unite 1 / Unite 2 |
+| wo 29 nov | netl | classroom         |
+| wo 29 nov | wisB | H2/H4             |
+| vr 31 nov | entl | essay             |
+| vr 31 nov | maat | ?????????         |
+
+* Vakken
+** DONE Engels
+*** Stof
+Essay van 250-300 woorden over een actueel onderwerp. *Spellingcontrole MAG!*
+*** Plan
+**** DONE Oefenen in de les
+** DONE Natuurkunde
+*** Stof
+H1/H2
+*** Plan
+**** DONE H1 leren
+SCHEDULED: <2023-11-16 Thu>
+- [ ] Paragraaf 1.2 Energie en vermogen
+- [ ] Paragraaf 1.3 Spanning en stroomsterkte
+- [ ] Paragraaf 1.4 Weerstand
+**** DONE H2 leren
+SCHEDULED: <2023-11-16 Thu>
+- [ ] Paragraaf 2.2 Kracht verandert snelheid
+- [ ] Paragraaf 2.3 Versnellen en vertragen
+- [ ] Paragraaf 2.4 Afstand en beweging
+- [ ] Paragraaf 2.5 Vallen
+** TODO Nederlands
+*** Stof
+Tekstbegrip Classroom
+*** Plan
+**** DONE In de les de theorie krijgen
+**** TODO ...
+** DONE Scheikunde
+*** Stof
+H1 t/m H3.4
+| Wat                        | Tabel                           |
+|----------------------------+---------------------------------|
+| Periodiek systeem          | 99                              |
+| Systematische namen        | 66A                             |
+| Molecuulformules           | 66B                             |
+| Molaire massas             | 98                              |
+| Ionlading elementen        | 40A(rechterkolom)               |
+| Elektronegativiteit        | 40A(4e van rechts)              |
+| Getal van avogradro        | 7A                              |
+| Smelt en kookpunten        | 40A(elementen) 42(verbindingen) |
+| Isotopen                   | 25A                             |
+| vermenigvuldigingsfactoren | 2                               |
+*** Plan
+**** DONE H1 Scheiden en reageren
+***** DONE Paragraaf 1.1 Zuivere stof en mengsel
+SCHEDULED: <2023-11-13 Mon>
+  - [X] Zuivere stof of mengsel
+  - [X] Oplossing of emulsie
+  - [ ] Je kunt uitleggen wat een zuivere stof, mengsel, element en verbinding is
+  - [ ] Je kunt experimenteel vaststellen of je met een mengsel of zuivere
+  - [ ] Je kunt de kenmerken noemen en herkennen van oplossingen, suspensies en emulsies
+  - [ ] Je kunt de begrippen hydrofiel en hydrofoob toepassen
+stof te maken hebt
+***** DONE Paragraaf 1.2 Scheidingsmethoden
+SCHEDULED: <2023-11-14 Tue>
+- [ ] Je kunt uitleggen hoe je een mengsel van stoffen kunt scheiden
+door gebruik te maken van verschillen in:
+  * oplosbaarheid
+  * deeltjesgrootte
+  * kookpunt
+  * aanhechtingsvermogen
+  * dichtheid
+
+***** DONE Paragraaf 1.3 Chemische reacties
+SCHEDULED: <2023-11-14 Tue>
+  - [-] Exotherm of Endotherm
+***** DONE Paragraaf 1.4 Snelheid van een reactie
+SCHEDULED: <2023-11-14 Wed>
+  - [ ] Reactiesnelheid
+  - [ ] Concentratie en reactiesnelheid
+  - [ ] Temperatuur en reactiesnelheid
+  - [-] Katalysatoren
+**** DONE H2 Bouwstenen van stoffen
+***** DONE Paragraaf 2.1 Periodiek systeem
+SCHEDULED: <2023-11-14 Wed>
+  - [ ] IJzer wordt roest
+  - [ ] De grootte van een molecuul
+***** DONE Paragraaf 2.2 Ionen
+SCHEDULED: <2023-11-14 Tue>
+- [ ] Paragraaf 2.3 Massa's van bouwstenen
+- [ ] Paragraaf 2.4 De mol
+**** DONE H3 Moleculaire stoffen
+***** DONE Paragraaf 3.1 De bouw van stoffen
+SCHEDULED: <2023-11-15 Wed>
+  - [ ] Elektrische geleiding
+***** DONE Paragraaf 3.2 Binding in moleculen
+SCHEDULED: <2023-11-15 Wed>
+***** DONE Paragraaf 3.3 Binding tussen moleculen
+SCHEDULED: <2023-11-15 Wed>
+  - [X] Je kan het verband uitleggen tussen de molecuulmassa en de sterkte van de vanderwaalsbinding
+  - [X] Je kan het verband uitleggen tussen smelt- en kookpunt en de sterkte van de vanderwaalsbinding
+  - [ ] Je kan het verschil uitleggen tussen ontleden en verdampen
+  - [X] Je kan verklaren waarom kookpunten van bepaalde moleculaire stoffen sterk afwijken
+  - [ ] Je kan uitleggen wat een dipool-dipoolbinding inhoudt
+  - [X] Je kan uitleggen wat waterstofbruggen zijn
+  - [-] Je kan aan de structuurformule van een stof herkennen of deze stof waterstofbruggen kan vormen
+
+***** DONE Paragraaf 3.4 Moleculaire stoffen mengen
+SCHEDULED: <2023-11-15 Wed>
+  - [ ] Jood in water, jood in wasbenzine
+  - [ ] Oplossen of niet
+  - [ ] De ammoniakfontein
+  - [ ] Mentos in cola
+** TODO WisB
+*** Stof
+H2/H4
+*** Plan
+**** TODO H2
+**** TODO H4
+*** Notities
+- [ ] Modulusvergelijkingen
+- [ ] 
+** DOING Frans
+*** Stof
+    - Vocabulaire Unite 1 : Lire + Vocabulaire thématique ( NF)
+    - Vocabulaire Unité 2
+    - Grammaire I: l' adverbe
+    - Grammaire II: Verbes -RE  (descendre, vendre, attendre, répondre) + pouvoir + vouloir
+    - Grammaire III: les possessifs  (zelfstandig bezittelijk voornaamwoord niet in toets)
+*** Plan
+**** DOING Vocabulaire Unite 1
+SCHEDULED: <2023-11-15 Wed>
+**** TODO Vocabulaire Unite 2
+SCHEDULED: <2023-11-15 Wed>
+**** TODO Grammaire I
+SCHEDULED: <2023-11-14 Tue>
+- [ ] l'adverbe
+**** TODO Grammaire II
+SCHEDULED: <2023-11-15 Wed>
+***** TODO Verbes -RE
+  - [ ] Pouvoir
+  - [ ] Vouloir
+**** TODO Grammaire III
+SCHEDULED: <2023-11-16 Thu>
+  - [ ] les possesifs (niet bezittelijk voornaamwoord)
+    

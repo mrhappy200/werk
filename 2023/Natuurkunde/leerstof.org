@@ -1,0 +1,66 @@
+#+TODO: TODO DOING | DONE
+
+* Grootheden en eenheden
+| Grootheid                   | Symbool       | Eenheid                              | afkorting          |
+|-----------------------------+---------------+--------------------------------------+--------------------|
+| [[id:341dbfdd-1628-46db-8b6e-d0784b0940f9][activiteit]]                  | \(A\)         | bequerel                             | \(Bq\)             |
+| [[id:a83b71d7-ba59-4aaa-ba93-348fbdde02dc][afstand]]                     | \(s\)         | meter                                | \(m\)              |
+| [[id:43fcbb70-d1b2-4afe-8aaf-ecc5093fec2b][arbeid]]                      | \(W\)         | joule                                | \(J\)              |
+| [[id:fb22aaf7-c712-45da-b3a5-719fb627d9b6][dichtheid]]                   | \(\rho\)      | kilogram per kubieke meter           | \(kg/m^3\)         |
+| [[id:e4dbab00-c39a-4497-9ac2-a03868bba294][druk]]                        | \(p\)         | newton per vierkante meter           | \(N\m^2\) (Pa)     |
+| [[id:b3fcfbc0-10e8-4979-aa38-96fcfd24a295][effectieve stralingsdosis]]   | \(H\)         | sievert                              | \(Sv\)             |
+| [[id:9241a113-4ca7-42a5-a08a-fc0ba9910cab][energie]]                     | \(E\)         | joule                                | \(J\)              |
+| [[id:9e738706-83c9-4d02-8968-7d7e457cb4e3][frequentie]]                  | \(f\)         | herz                                 | \(Hz\)             |
+| [[id:010b0997-af11-49bb-9a3f-d4d4619a123c][geluidssterkte]]              | \(L\)         | decibel                              | \(dB\)             |
+| [[id:d92c972d-6d6d-4289-9fed-78caec73bf79][golflengte]]                  | \(\lambda\)   | meter                                | \(m\)              |
+| [[id:8dc82975-5acd-4dde-95b2-9e832be69fa6][kracht]]                      | \(F\)         | newton                               | \(N\)              |
+| [[id:ca2fe381-5b36-46dc-ab82-88ab79626f8f][lichtsnelheid]]               | \(c\)         | meter per seconde                    | \(m/s\)            |
+| [[id:e397c6fe-5e69-4b39-ad65-c4f59e29d9c7][massa]]                       | \(m\)         | kilogram                             | \(kg\)             |
+| [[id:f6d7ef52-8ee8-490a-800d-16f7e75c9295][oppervlakte]]                 | \(A\)         | vierkante meter                      | \(m^2\)            |
+| [[id:10bc2fc1-8bb0-4f54-898d-81ba01de57bc][relatieve rek]]               | \(\eplipson\) | -                                    | -                  |
+| [[id:50b2ecf2-b39f-4a3c-9e09-3e20f3b4e143][rendement]]                   | \(\eta\)      | -                                    | -                  |
+| [[id:c580e152-002c-4b8a-822a-77e8bb529bc1][snelheid]]                    | \(v\)         | meter per seconde                    | \(m/s\)            |
+| [[id:645dd1e1-d051-4827-a8a8-b2be7ea7f125][soortelijke warmte]]          | \(c\)         | joule per kilogram per kelvin        | \(J/(kg \cdot K)\) |
+| [[id:e6490f5f-563f-42db-a0e5-db236c445edd][soortelijke weerstand]]       | \(\rho\)      | ohm meter                            | \(\Omega m\)       |
+| [[id:26d3b4c7-20f1-403f-9f7a-a80aff943d33][spanning]]                    | \(U\)         | volt                                 | \(V\)              |
+| [[id:08881a85-5ad6-4597-a6b5-5b5e59e62a14][stralingsdosis]]              | \(D\)         | joule per kilogram                   | \(J/kg\)           |
+| [[id:316f3a49-f695-441e-bbe1-c4616540ef75][stroomsterkte]]               | \(I\)         | ampère                               | \(A\)              |
+| [[id:9dad0e4b-5709-42b6-b6b0-3079ffc6a52b][temperatuur]]                 | \(T\)         | kelvin                               | \(K\)              |
+| [[id:1d6d56a4-14b1-43df-966f-748b61afffd0][tijd]]                        | \(t\)         | seconde                              | \(s\)              |
+| [[id:500755f5-46ce-4590-a290-f045a1541774][trekspanning]]                | \(\sigma\)    | newton per vierkante meter           | \(N/m^2\)          |
+| [[id:ecf24212-ded7-4e65-828a-d6a7140fe18a][veerconstante]]               | \(C\)         | \(newton per meter\)                 | \(N/m\)            |
+| [[id:8c2dfac3-e146-4613-9fe5-aae783676ca5][vermogen]]                    | \(P\)         | watt                                 | \(W\)              |
+| [[id:f52f1ed4-1265-4d84-953b-75b9aa7aed95][versnelling]]                 | \(a\)         | meter per seconde kwadraat           | \(m/s^2\)          |
+| [[id:eea5c5d1-e67e-4bf6-b7fb-e5fbf1cf5e75][volume]]                      | \(V\)         | kubieke meter                        | \(m^3\)            |
+| [[id:d449c124-63da-4979-a354-0208f7361b3d][warmte]]                      | \(Q\)         | joule                                | \(J\)              |
+| [[id:68a5fc7e-8ec1-4b0e-a4a7-196fd445b51b][warmtecapaciteit]]            | \(C\)         | joule per kelvin                     | \(J/K\)            |
+| [[id:9a9d9ea1-e226-44fc-aa52-c7798280648c][warmtedoorgangscoëfficiënt]]  | \(U\)         | joule per vierkante meter per kelvin | \(W/(m^2\cdot K)\) |
+| [[id:b40f6acb-7a3f-4a47-841d-17579c85b9eb][warmtegeleidingscoëfficiënt]] | \(\lambda\)   | joule per meter per kelvin           | \(W/(m\codt K)\)   |
+| [[id:e8e1eaad-d190-4923-84a8-5c3545ea474f][weerstand]]                   | \(R\)         | ohm                                  | \(\Omega\)         |
+
+* Atoommodel
+- [[id:ee7b3d47-9812-4d40-b689-8a56d1674d8e][Moleculen]]
+- [[id:c31c1b78-c169-4438-8f40-b91d1460eb16][atomen]]
+- [[id:c093fff5-da0d-4375-aa92-5c427c82803b][elektronen]]
+- [[id:e6c07ef7-fee1-487d-96b3-9505313149e9][neutronen]]
+- [[id:1abb363b-a975-484b-9fc5-4d588f9d0245][protonen]]
+- [[id:209dcf2a-ece2-4fbd-85a0-9d74d26cdf0e][atoomnummer]]
+- [[id:f492043d-cc81-400d-a62e-7ff2b9eecf50][massagetal]]
+- [[id:bacdcdcb-264b-4b43-9aef-981068ef6ca4][isotopen]]
+
+* Radioactiviteit
+- [[id:f97d79ee-a943-41cf-a79c-fccfc21b034e][alpha-straling]]
+- [[id:656fc29a-2b7b-405c-bd7c-ca1a5ffd1fec][beta-straling]]
+- [[id:a28199f4-958d-4181-92c4-7aec590b70f6][gamma-straling]]
+- [[id:66b86cdc-3b08-4c98-a287-c5b1510cc6df][radioactief verval]]
+- [[id:052d7a55-011f-4d6c-95f0-5d42d2b648cb][halveringstijd]]
+- [[id:341dbfdd-1628-46db-8b6e-d0784b0940f9][activiteit]]
+
+* Materialen
+- [[id:10bc2fc1-8bb0-4f54-898d-81ba01de57bc][relatieve rek]]
+- [[id:500755f5-46ce-4590-a290-f045a1541774][trekspanning]]
+- [[id:038a89bb-9818-4c5b-baf7-3e311a9d93dd][treksterkte]]
+- [[id:d53bbaf8-1072-419e-aa5b-e55899feab86][lichtbreking]]
+- [[id:fb04783c-c2e9-4753-9d1e-3b696bb00408][warmtestroom]]
+- [[id:e6490f5f-563f-42db-a0e5-db236c445edd][soortelijke weerstand]]
+- [[id:b655244d-f92d-4a7a-acb4-d3bcbf225226][magnetische geleiding]]

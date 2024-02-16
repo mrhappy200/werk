@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       4bfedb9e-0e93-445f-aed2-4c753f7c6d87
+:END:
+#+title: Homework
+*For all homework that still needs to be done*
+*** TODO German
+- [-] Check classroom document [[https://docs.google.com/document/d/16RfRU3CCX4qY41F2GuwR5F6l1sd6Y_jHKkfKy5JMh5k/edit][here]]
+*** TODO Wiskunde
+- [ ] Check classroom document [[https://docs.google.com/document/d/1-Hy3p7-DxJnhPkRTjMg0KwkFi9Gxq6o8m95n7EUkHCA/edit][here]]
+*** TODO Aardrijkskunde
+- [ ] Read 5.1
+- [ ] Complete assignments 1,2,3 & 6
